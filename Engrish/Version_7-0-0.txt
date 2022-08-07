@@ -1,0 +1,5 @@
+You are a die
+Press {keybinding_interaction} to the house <color=yellow>weapon manager tablet</color>. 
+Press {keybinding_interaction} to picked the upon <color=yellow>weapon manager tablet</color>. 
+That <color=yellow>workstation</color> already is someone else <color=yellow>weapon manager tablet</color> connected. 
+You are a needed that <color=yellow>weapon manager tablet</color> to used that <color=yellow>workstation</color>

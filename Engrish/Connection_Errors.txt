@@ -1,0 +1,38 @@
+<size=80>you take achieved kicked</size>\nthe server were forced to the stopped connection. 
+<size=80>disconnected</size>\nthe specified host is don't availabrue. 
+<size=80>disconnected</size>\nthe specified connection id does don't exist. 
+<size=80>disconnected</size>\nthe specified channel does don't exist. 
+<size=80>disconnected</size>\nserver is full. 
+<size=80>disconnected</size>\nreceived wrong packet. 
+<size=80>disconnected</size>\nconnection lose (timed outward). 
+<size=80>disconnected</size>\nconnection lose (timed outward). 
+<size=80>disconnected</size>\noperation is don't supported. 
+<size=80>disconnected</size>\nyour game version is differently the originate server. 
+<size=80>disconnected</size>\ninvalid server config. 
+<size=80>disconnected</size>\nthe address is invalid or can don't be resolved. 
+<size=80>disconnected</size>\nan unexpected problem is occurred!
+<size=80>please waited</size>\n<size=35>establishing connection. </size>
+<size=80>round restart</size>\n<size=35>the round is restarting. </size>
+<size=80>please waited</size>\n<size=35>loading tutorial. </size>
+<size=80>version incompatibility</size>\nyour game version is differently the originate server\n(client - [your]; server - [server])
+The <size=80>connected</size>\n<size=35>loading level. </size>
+The <size=35>loading facility. </size>
+<size=80>disconnected</size>\nunspecified error occurred the in server. 
+<size=80>disconnected</size>\nthis server requires authentication by central servers. 
+<size=80>disconnected</size>\nyou am a don't whitelisted in that server. 
+<size=80>disconnected</size>\nyou take achieved globally banned. 
+<size=80>disconnected</size>\nyou take achieved globally banned: [reason]. 
+<size=80>disconnected</size>\nyou take achieved banned originate that server. 
+<size=80>disconnected</size>\nyou take achieved banned originate that server. \nban expires: [date] [time]
+<size=80>disconnected</size>\nyour authentication token is expired. \nserver might take invalid anytime or timezone set. \nplease contact an server administrator. 
+<size=80>disconnected</size>\nyou take achieved rate limited.  Tried again on that few seconds. 
+<size=80>disconnected</size>\nserver is don't accepting connections originate yours geographic location. \nserver named or info may contained more details. 
+<size=80>disconnected</size>\nyou take achieved kicked by that server modification. \n\nreason: [reason]\nthis is that server modification, don't that game feature. \ncontact an server administrator of more informative. 
+<size=80>disconnected</size>\nyour authentication token is achieved rejected the by server. \nplease the restart game and tried again or contact studio technical support. 
+<size=80>disconnected</size>\nyou take achieved banned originate that server. \nreason: [reason]
+<size=80>disconnected</size>\nyou take achieved banned originate that server. \nban expires: [date] [time]\nreason: [reason]
+<size=80>please waited</size>\nprocessing server secured verification. 
+<size=80>disconnected</size>\nfailed to process server secured verification. 
+<size=80>disconnected</size>\nprocessing for server securely verification were to slowed the of server. \nplease tried again or contact server administrator. 
+<size=80>auth error</size>\ncentral server message: [message]. 
+<size=80>disconnected</size>\nserver is shutting through

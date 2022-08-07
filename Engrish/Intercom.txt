@@ -1,0 +1,7 @@
+Ready
+Transmitting. \ntime leave: {0}
+Transmitting. \nbypass mode
+Restarting\n{0}
+Admin is using\nthe intercom currently
+You are am muted by admin
+Unknown

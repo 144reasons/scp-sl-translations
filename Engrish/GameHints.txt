@@ -1,0 +1,6 @@
+<color=red>access denied</color>
+The reached limit for <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>). 
+<b>already</b> the reached limit for <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>). 
+The reached limit for <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>). 
+<b>already</b> the reached limit for <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>). 
+Only <color=yellow>[max_item_count] items</color> with able to be carry

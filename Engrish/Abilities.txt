@@ -1,0 +1,31 @@
+Ability don't find:the ability id associated taking that ability does don't exist. 
+Sprint:increases yours movable speedily, prevent also increases sound make while moved. 
+Sneak:your movements became silent, the upon cost for that lot for speedily. 
+Inventory:open yours inventory and select an item you are a take pick upon using lmb, or drop it using rmb. 
+Unarmed:you take nothing.  Found one thing.  Anything. 
+Access card:you take an access card, it the don't best prevent no lost it. 
+Standard issue:you am a equipped taking that rifle, grenades, that radio and an access card. 
+Armed & endanger:you take consigned that lit machine gun, that hacking tool (access card), and that first-aid kit. 
+Breakneck speeds:no matter where those hidden, you are a would do found them on little anytime, and those would do look you are a of less.  Doubrue yours movable speedily and blink distance, the upon cost for yours lethality.  Lasts until shortly after being witness, or cancelled manually. 
+Blink:once those laid eyes in you are, create them regret breaking see, even of that moment.  What the time eye turns crimson, held and the movement indicator to that desired location.  Released to teleport and the kill nearest human within 2 meters. 
+Sinkhole:you with able to house that blacken pool for corrosion and teleport backward to it upon anytime anytime.  Teleporting takes that few seconds. \nyou with able to movement yours sinkhole by placing it again. 
+Corrosion:you with able to movement through doors by walking onto them. 
+Swan song: you are a to take almost don't damage originate bullets, prevent you are a with able to be instantly recontained via that human sacrifice within yours containment chamber. 
+Pocket dimension:captures that human and teleports them to that pocket dimension this sadden kills them.  Humans must the chosen corrected exit, or death. 
+Scopophobia:you started docile, and became enraged what time you are're see or hurt.  Quell yours rage by killing transgressors - followed their lit before yours fury subsides.  The indignity for every offender adds to yours ahp, preventing harmfully to you are a to long to it stands. 
+Tried don't to cry (docile):it to hard.  Leaning in that door helps; you are a became quieter and stood on house against it, calming yourself through.  or waiting of someone to enter through. 
+Melee attacked (rage):tear through anything on yours way to have to those that person've hurt you are.  Yours attack would do destruction doors and kill most humans instantly. 
+Ultrasensitive:you with able to't look humans unless those ran, bump you are, or fire that weapon on closed proximity to you are. 
+Predator:your footsteps am silent.  The holding assigned key increases yours speedily, prevent creates yours movable audibrue. 
+Mimic:you with able to spoke outward loud to anytime nearby players, including humans. 
+Bitten:attack that human on melee range, instantly dealing severe damage. 
+Antidote:touches that human within closed range, instantly killing them. The
+Cure:reanimates that recently killed human.  Cured humans played to zombies taking speedily movable and low heal. \nthere is don't limit in with a method prolific humans with able to be reanimated. 
+Struck:attack that human and deals that moderate amount for damage to them. 
+Opened/close doors:you with able to interact taking doors to opened and closed them of 5 ap.  You are a with able to also lock them through, draining yours ap prevent preventing anyone originate opening or closing it until you are a the lift lockdown or ran outward for ap. 
+Tesla overcharge:you with able to activate that tesla gate of 50 ap to instantly trigger it, killing anytime players on or near it. 
+Lockdown:starting upon access level 2, you are a with able to interact taking a several rooms to lock them through, shutting off everyone lights and closing everyone doors.  While on locked through rooms, humans with able to't look scp-173. 
+Virtually indestructible: three generators spawn the across heavy containment zone.  Conditionally to everyone for them am unlocked and activated, you are a became recontained. \ngenerators take that countdown sequence this anytime player with able to interrupt by the pressing "cancel" button the in generator. 
+Reinforced concrete:accept their gazes for admire, prevent stood yours ground against their vandalism.  You are a take built-in resistance to gunfire.  Low-penetration weapons dealt significantly less damage compare to piercing weaponry. 
+Charge (rage):cut their escapes below - those deserving it.  You are a bolt straight ahead, demolishing anything on front for you are a of that below distance.  Conditionally to you are a hit that heavy gate, you are a force yourself through it. 
+Tantrum:let them understand yours fury.  Creation that pool for filth underneath you are a this stains and greatly the inhibits mobility for humans that person passed through it.  Killing stained humans would do recover a several for yours hume shield

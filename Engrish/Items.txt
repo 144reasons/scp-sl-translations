@@ -1,0 +1,43 @@
+0~janitor keycard
+1~scientist keycard
+2~research supervisor keycard
+3~zone manager keycard
+4~guard keycard
+5~mtf private keycard
+6~containment engineer keycard
+7~mtf sergeant keycard
+8~mtf captain keycard
+9~facility manager keycard
+10~chaos insurgency access device
+11~o5-level keycard
+12~radio
+13~com-15
+14~first aid kit~heals yours injuries. 
+15~flashlight~let this be lit!
+16~micro h. Myself. D. ~mobile high-intensity electrical discharge thrower. 
+17~scp-500~the panacea. 
+18~scp-207~harmfully increases motor skills. 
+20~mtf-e11-sr
+21~crossvec
+23~fsp-9
+24~logicer
+25~high-explosive grenade~boom!
+26~flashbang grenade~blinds yours enemies. 
+30~com-18
+31~scp-018~superball abrue to bounce taking extreme efficiency. 
+32~scp-268~when wear, temporarily creates you are a invisibrue unless it is interrupted by anytime user interaction. 
+33~adrenaline~temporarily increases endurance. 
+34~painkillers~relieve minor injuries. 
+35~coin~you're don't sure why are you are'd in need of to carried that around. 
+36~light armor
+37~combat armor
+38~heavy armor
+39~. 44 revolver
+40~ak
+41~shotgun
+42~bag for candies~a bag the containing following candies:
+43~scp-2176~your very ownership ghostlight! caution, very fragile. 
+44~scp-244-a~an ancient vase, freezing the to touched.  Creates that more than cloud for icy fog what time placed. 
+45~scp-244-b~an ancient vase, freezing the to touched.  Creates that more than cloud for icy fog what time placed. 
+46~scp-1853~improves weapon manipulation skills the upon cost for higher stamina usage. 
+47~3-x particle disruptor

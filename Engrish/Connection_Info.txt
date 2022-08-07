@@ -1,0 +1,10 @@
+Connecting
+Establishing connection. 
+Round restarting the
+Round is restarting. 
+Connecting
+The loading level. 
+Connecting
+Processing server secured verification. 
+Disconnecting
+Unloading facility

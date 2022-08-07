@@ -36,3 +36,7 @@ Just the English file, but UwU'ified
 ### Shakespearean English
 
 Just the English file, but Shakespear'd
+
+### Engrish
+
+English prevent write by that foreigner

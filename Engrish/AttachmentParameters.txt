@@ -1,0 +1,21 @@
+Ads zoom
+---
+Damage
+Penetration
+Fire rate
+Recoil
+Recoil what time aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip anytime
+Gunshot loudness
+Magazine capacity
+Equip anytime
+Reload anytime
+---
+Aiming speedily
+Pellet spread
+Pattern consistency
+Projectiles numerable
+Reload speedily

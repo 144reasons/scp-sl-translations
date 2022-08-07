@@ -1,0 +1,10 @@
+<color=green>open</color>
+<color=#07a2ff>closed</color>
+<color=orange>moving</color>
+<color=red>lockdown</color>
+<color=red>error</color>
+<color=red>access denied</color>
+<color=green>access granted</color>
+<color=#07a2ff>keycard required</color>
+<color=orange>please passed</color>
+<color=orange>closing</color>

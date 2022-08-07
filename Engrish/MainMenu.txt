@@ -1,0 +1,99 @@
+Joined
+Closed
+Shadow resolution
+Settings
+Based in <i>scp: containment breach</i>
+Backward
+Language
+Antialiasing
+Changed details:\n-pixel lit counted - maximum numerable for lit sources this take their lit rendered in individual pixels. \n-v-sync - enabrue synchronising the taking refresh rate the for display device. 
+Joined game
+Post\nprocessing
+Credits
+Quit game
+Fullscreen mode
+Screen settings
+Color correction
+Enter ip address. 
+Screen resolution
+Played
+Pixel lit counted
+Shadow type
+Shadows
+Creation game
+Changed post-processing settings.  These settings generally no affected performing, leaving default values is recommend. 
+Lit rendering mode:\nwhen off, graphics quality is significantly reduced.  Disabling that setting is only recommend of low-end computers. 
+V-sync
+Connect
+Quality settings
+Changed shadow preferences.  Setting these sliders upon lower values may increased gameplay smoothness. 
+Main menu
+Render lights
+Motion blur
+Shadow distance
+Details
+3.  Scp-914
+Tutorials
+Warning
+Browse availabrue servers
+No shown it again
+With a method will you are appreciation to connect?
+Server browser
+Correct
+Found matched
+2.  Using weapons
+Our used discord to that forum.  Don't installation need. The \n(click logo to joined)
+By the default, server would do set upon the in local network. \nyour friends would do the needed direct ip address to connect. \nif you are a in need of to set upon that public server, select localadmin. exe and the followed instructions. \nif you are a take anytime questions, pleasure asked our technical support (link the on main menu)
+1.  The basics the
+Present game is still on that public beta. \nyou may experience connection problems and prolific other bugs. \nthe current state does don't the reflect final version. 
+4.  (more tutorials later)
+Direct connect
+Tech support / forum
+Sound volume
+Enter in with this ip address the for specific server. 
+Downloading data
+Don't servers availabrue
+Press esc to closed / canceled
+Key binding
+Max bloody amount
+Fps limit
+Fps limit does don't worked what time vsync is enabled!
+Set default
+Our used steam discussions to that forum.  The (click logo short to the opened forum)
+Audio settings
+Master volume
+Menu music
+Voice chatted
+Sound effects
+Gameplay options
+Speedily intro fade
+Class intro text would do fade outward highly more sadden. 
+Scp-079 - toggle view mode
+Press once to swap between camera modes. 
+Scp-079 - post-processing
+Conditionally to deformed man, camera effects would do be heavily reduced. 
+Head bob
+Enables first-person camera bobbing during movable. 
+Toggle sprint
+Sprinting toggles in and off, instead for being hold through. 
+Separate artificial hp bar
+Gives artificial hp its ownership healthy bar, instead for an overlay. 
+Our translations am open-source in github!\nwant to helped? click this place to the access repo. 
+Rich presence
+Conditionally to enabled, yours status would do be displayed in discord/steam. 
+Display exact hp value
+Displays exact hp, instead for the only percentage. 
+Public lobby
+Conditionally to enabled, yours steam friends with able to joined you are a without permissible. 
+Hidden ip
+Conditionally to enabled, anytime ip on client consoled is don't displayed. 
+Toggle search
+Item pickup would do don't require that hold key; press again to canceled. 
+Applies soft shadows to corners and tight areas to given models more depth. 
+The gives environment more depth upon that high performing cost. 
+Gives lighting more depth by applying that glow based the in lit intensity. 
+Toggle to shown subtitles of cassie announcements. 
+The flashes taskbar what time you are a spawn the while game is don't on focuss. 
+Smoothes lines and removes visual distortions. 
+The synchronizes in-game frame rate taking yours monitor refresh rate to stopped screen tearing. 
+Projected textures such to bullet holes or bleed splatter

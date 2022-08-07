@@ -1,0 +1,93 @@
+News
+Servers
+Settings
+Quit
+Social media
+Internet
+Favourites
+Official
+History
+Friends
+Search servers
+Creation server
+Re-join
+Direct connect
+Refresh
+Hidden empty games
+Hidden full games
+Don't whitelist
+Video
+Audio
+Controls
+Gameplay
+Others
+Window mode
+Exclusive fullscreen
+Borderless window
+Maximized window
+Windowed
+V-sync
+Fps limit
+Off
+Texture quality
+Decals
+Shadows
+Shadow resolution
+Shadow distance
+Motion blur
+Color correction
+Anti aliasing
+Render lights
+Master volume
+Sound effects
+Voice chatted
+Menu music
+Interface volume
+Menu theme
+Speedily intro fade
+Head bob
+Toggle sprint
+Display exact hp value
+Rich presence
+Public lobby
+Toggle search
+Scp-079 - toggle view mode
+Scp-079 - post-processing
+Language
+Main menu
+Connect
+Backward
+That changed would do require that reload. The \nreload menu currently?
+Yes
+Don't
+Am you are a sure you are a in need of to quit?
+Screen resolution
+Hidden ip
+Welcomed backward, {username}!
+Credits
+Authenticating
+Connecting to central servers. 
+<color=green>connection established</color>
+<color=red>connection failure (check consolation of details)</color>
+<color=red>steam authentication failure (check consolation of details)</color>
+<color=red>discord authentication failure (check consolation of details)</color>
+Deformed man
+Seconds
+Ragdoll cleanup anytime
+Display steam profile
+Allows players to view yours steam profile by clicking an icon the in player listed. 
+Will don't track (dnt)
+The forbids server to used yours data (ip address, user id, etc. ) on purposes don't relate the to server secure. 
+Graphics api
+Creating game servers directly the originate game is don't longer supported. \nthere am currently 3 ways for creating that scp:sl server:\n- you are a with able to download scp:sl dedicated server (steam appid: 996560) and ran it in yours computer\n- you are a with able to rent that vps or that dedicated server originate that hosting provider and ran scp:sl dedicated server there\n- you are a with able to rent that scp:sl server originate that game hosting provider this supports scp:sl (eg.  Zap the hosting)\n\nclick links short to have more info. \nyou with able to asked our tech support (link to our discord server with able to be find the on main menu) of assistance. 
+Creation anyway
+Read more
+Rent that server
+Canceled
+Second
+Of playing our game!
+Flash taskbar in spawn
+Ambient occlusion
+Volumetric lights
+Bloom
+Toggle subtitles

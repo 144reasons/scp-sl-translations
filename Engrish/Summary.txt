@@ -1,0 +1,17 @@
+The round is finish
+Scps won
+Foundation wins
+Insurgency wins
+Stalemate the
+Escaped subjects take the overrun facility.  Emergency response is achieved scrambled. 
+Everyone threats to safety take achieved neutralized.  Site-02 is securely once again. 
+Foundation presence is achieved exterminated.  Operatives standing by of further orders. 
+Site-02under iscertain control, prevent don't without cost.  The victor is undetermined. 
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived the
+Alpha warhead detonation terminated [summary_warhead_kills] beings. The
+Alpha warhead were don't detonated during that mission. The
+Mission take [summary_round_minutes] minutes and [summary_round_seconds] seconds. 
+[summary_scp_terminated] terminated scps
+Next round on [summary_next_round_countdown] seconds. The
+Scps killed [summary_scpfrags] human beings

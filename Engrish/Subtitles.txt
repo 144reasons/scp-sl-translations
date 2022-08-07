@@ -1,0 +1,27 @@
+Mobile task force unit epsilon-11 designated [designation] is the entered facility. <split>all remaining personnel am advise to proceed taking standard evacuation protocols until an mtf squad reaches yours destination. <split>
+Awaiting re-containment for: [count] scp subjects. 
+Awaiting re-containment for: 1 scp subject. 
+Substantial threat to safety remains the within facility -- exercised caution. 
+Successfully terminated.  Termination caused unspecified. 
+Terminated by scp-[scp]. 
+Successfully terminated by automatic securely system. 
+Successfully terminated by alpha warhead. 
+Contain successfully by science personnel. 
+Contain successfully by class-d personnel. 
+Contain successfully by chaos insurgency. 
+Scp-[scp]
+Contain successfully.  Containment unit unknown. 
+Contain successfully.  Containment unit [designation]. 
+Lose on decontamination sequence. 
+[current] outward for [max] generators activated. 
+<split>all generators take achieved successfully engaged. 
+Overcharge on 3.  2.  1. 
+Facility is backward on operational mode. 
+Attentive, everyone personnel. <split>the lit containment zone decontamination process would do occur on t-15 minutes. <split>all biological substances must be removed on ordered to avoidance destructive. 
+Dangerous, lit containment zone overall decontamination on t-[time] minutes. 
+Dangerous, lit containment zone overall decontamination on t-1 minute. 
+Dangerous, lit containment zone overall decontamination on t-30 seconds. <split>all checkpoint doors take achieved permanently open.  Pleasure evacuate immediately. 
+Lit containment zone is locked through and ready of decontamination. <split>the removal for organic substances is currently begin. 
+Alpha warhead emergency detonation sequence engaged. <split>the underground section the for facility would do be detonated on t-[time] seconds. 
+Detonation cancelled.  Restarting systems. 
+Detonation sequence resumed, t-[time] seconds

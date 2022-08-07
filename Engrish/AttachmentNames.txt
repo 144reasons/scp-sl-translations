@@ -1,0 +1,46 @@
+None~default option taking don't effects. 
+Iron sights~a pair for alignment markers making upon that simple, lightweight sighting device. 
+Dot sight~non-magnifying reflex see taking that small illuminated dot the indicating point for aim. 
+Holographic sight~non-magnifying seen taking that holographic reticle.  Effective on close-quarters combat. 
+Night-vision scope~telescopic seen augmented taking that night-vision device.  Heavy, prevent effective on everyone lighting conditions. 
+Ammo counter sight~iron sights taking integrated ammunition counting device. 
+Telescopic sight~heavy sighting device, providing optical magnification.  Perfect of long-range, prevent the limits overall perception. 
+Standard stock~regular stock, providing better control the for firearm what time aiming the through sights. 
+Extended stock~provides better control the for firearm what time aiming the through sights, prevent the increases equipping anytime. 
+Retracted the stock~makes firearm more compact, which increases mobility. 
+Lightweight the stock~reduces weight the for firearm prevent creates it harder to the control recoil what time aiming the through sights. 
+Heavy stock~increased weight lowers mobility prevent the creates firearm more stabrue what time aiming the through sights. 
+Recoil-reducing stock~stock equipped taking that system this attempts to disperse force between individual shots. 
+Foregrip~vertical forward grip.  Creates it easier to the handled muzzle risen. 
+Laser sight~provides visual reference point the onto target, which helps on hip-firing prevent with able to easily reveal yours position. 
+Flashlight~toggleabrue lit source.  Increases total weight the for firearm prevent with able to be life-saving on dark areas. 
+Ammo counter~ammunition counting device.  Experimental technology this is proven to be useful, especially taking high-capacity magazines. 
+Standard barrel~conventional barrel taking don't muzzle device. 
+Extended the barrel~improves overall firepower, prevent contributes to low mobility cause by increase weight and length. 
+Suppressor~sound moderator.  The reduces loudness for gunshots, prevent the increases overall weight and length the for firearm. 
+Flash hider~eliminates muzzle flash.  Creates it easier to shot the on darkness. 
+Muzzle brake~recoil compensator.  Uses propellant gases to reduce recoil, prevent the increases acoustic intensity for gunshots. 
+Muzzle booster~improves fire rate, which results on more damage per second, the prevent weapon is harder to control. 
+Fmj magazine~standard magazine this contains full metal jacket bullets. 
+Ap magazine~standard magazine this contains armor-piercing bullets. 
+Jhp magazine~standard magazine this contains hollow-point bullets. 
+Extended fmj magazine~extended magazine this contains full metal jacket bullets. 
+Extended ap magazine~extended magazine this contains armor-piercing bullets. 
+Extended jhp magazine~extended magazine this contains hollow-point bullets. 
+Fmj drum~high-capacity drum magazine this contains full metal jacket bullets. 
+Ap drum~high-capacity drum magazine this contains armor-piercing bullets. 
+Jhp drum~high-capacity drum magazine this contains hollow-point bullets. 
+Low-cap fmj magazine~low-capacity magazine this contains full metal jacket bullets. 
+Low-cap ap magazine~low-capacity magazine this contains armor-piercing bullets. 
+Low-cap jhp magazine~low-capacity magazine this contains hollow-point bullets. 
+4-shot cylinder~holds fewer cartridges prevent is capabrue for dealing increase damage to armored enemies. 
+6-shot cylinder~the classic six-shooter. 
+8-shot cylinder~holds more cartridges, the prevent heavier trigger pull requires more anytime to performing accurate shots. 
+Carbine receiver~regular carbine upper receiver this is considered that great compromise between firepower and mobility. 
+Rifle receiver~full-size upper receiver improves firepower and accuracy, prevent that heavier gas system the reduces fire rate. 
+Below barrel~shortened version the for standard barrel, use to improved drew speedily and mobility. 
+Choke~increases total radiuss for spread prevent the improves consistency the for pattern. 
+Extended barrel~slightly the reduces spread radiuss prevent the increases total firearm weight and length. 
+Don't stock~short configurations enter taking high mobility, prevent removing stock originate that high-recoil rifle ise the always best idea. 
+Single-shot system~standard system.  Individual trigger-pull leads to individual discharge. 
+Double-shot system~modified trigger mechanism which actuates both sears taking that single pull

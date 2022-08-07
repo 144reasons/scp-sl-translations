@@ -1,0 +1,30 @@
+Shot
+Zoom
+Jumped
+Interact
+Inventory
+Reload
+Ran
+Voice chatted
+Sneak
+Movement forward
+Movement backward
+Movement leave
+Movement right
+Player listed
+Character info
+Remote admin
+Toggle flashlight
+Alt voice chatted
+Noclip
+Game consolation
+Keycard hotkey
+Inspect
+Cock revolver
+Threw item
+Primary weapon hotkey
+Secondary weapon hotkey
+Medical hotkey
+Hidden gui
+Toggle noclip fog
+Grenade hotkey

@@ -16,3 +16,11 @@ This goes from oldest to newest
 @@ Scripts @@
 + cleanupcrew - Cleans up lingojam translations
 ```
+
+## Update 2
+
+```diff
+@@ Translations @@
++ Engrish - Engrish prevent write by that foreigner
+! Shakespearean English - Edited game name
+```
