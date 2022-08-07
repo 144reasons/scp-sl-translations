@@ -31,3 +31,10 @@ This goes from oldest to newest
 @@ Translations @@
 + Reversed Lettering English - English, but all the letters are backwards
 ```
+
+## Update 4
+
+```diff
+@@ Random @@
+! Updated README.md formatting to add images
+```

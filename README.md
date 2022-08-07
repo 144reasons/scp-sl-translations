@@ -27,16 +27,28 @@ To add a script, create a folder under the `scripts` folder, and add your script
 
 ### English (default)
 
-Fucked up and deleted your English translation file? You can use this file instead!
+Just the English file.
 
 ### UwU'ified English
 
 Just the English file, but UwU'ified
 
+![](https://i.imgur.com/y6YekH6.jpg)
+
 ### Shakespearean English
 
 Just the English file, but Shakespear'd
 
+![](https://i.imgur.com/18KFgbs.jpg)
+
 ### Engrish
 
 English prevent write by that foreigner
+
+![](https://i.imgur.com/SOPv5Q9.jpg)
+
+### Reversed Lettering English
+
+Just the English file, but the letters are all reversed
+
+![](https://i.imgur.com/NdJGV8Z.jpg)
