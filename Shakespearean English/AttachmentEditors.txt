@@ -1,0 +1,16 @@
+Custom
+Did preset #[index]
+Saveth
+Cleareth attachments
+Default
+Presets
+Workstation - <color=#c00>offline</color>
+<color=#ccc>site-02 firearm customization pointeth</color> - standby mode activated\n<size=39>touch the screen to activateth.  <color=#ccc>authoriz'd personnel only. </color></size>
+Welcometh, user!
+Workstation is booting up
+Workstation - <color=#0c0>ready</color>
+<size=52><color=#ccc>site-02 firearm customization pointeth</color> - eft</size>\n<size=42><color=#ccc>please equip thy firearm to modifyeth its attachments. </color></size>
+Powering down
+Workstation is shutting down
+Showeth summary
+Closeth summary

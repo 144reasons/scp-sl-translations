@@ -1,0 +1,7 @@
+Eft
+Transmitting. \ntime hath left: {0}
+Transmitting. \nbypass mode
+Restarting\n{0}
+Admin is using\nthe intercom anon
+Thou art mut'd by admin
+Unknown

@@ -1,0 +1,93 @@
+Nyews
+Sewvews
+Settings
+Quit
+Sociaw Media
+Intewnyet
+Favouwites
+Officiaw
+Histowy
+Fwiends
+Seawch Servers
+Create Server
+Re-Join
+Direct Connyect
+Refwesh
+Hide Empty Games
+Hide Fuww Games
+Nyo Whitewist
+Video
+Audio
+Contwows
+Gamepway
+Othews
+Window *twerks* Mode
+Excwusive Fuwwscween
+Bowdewwess Window
+Maximized Window
+Windowed
+V-Sync
+FPS ^-^ Wimit
+Off
+Textuwe Quality
+Decals
+Shadows
+Shadow Wesolution
+Shadow *screams* Distance
+Motion Bwuw
+color Cowwection
+Anti UwU Awiasing
+Rendew Lights
+Master Vowume
+Sound Effects
+Voice C-C-Chat
+Menyu Music
+Intewface Vowume
+Menyu Theme
+Fast Intro Fade
+Head Bob
+Toggle Spwint
+Dispway Exact H-HP Vawue
+Wich Presence
+Public Wobby
+Toggwe Seawch
+SCP-079 - Toggwe View Mode
+SCP-079 - post-Pwocessing
+Wanguage
+Main OwO Menyu
+Connyect
+Back
+This *walks away* change wiww require a wewoad.\nRewoad ;;w;; the x3 menyu nyow?
+Yes
+Nyo
+Awe you suwe you w-want t-to quit?
+Scween *notices buldge* Resowution
+Hide IP
+Wewcome back, {usewname}!
+Cwedits
+AUTHENTICATING
+Connecting t-to central servers...
+<color=green>Connyection e-estabwished</color>
+<color=wed>Connyection faiwuwe (Check console fow details)</color>
+<color=red>Steam a-a-authentication faiwuwe (Check console fow detaiws)</color>
+<color=wed>Discowd a-a-authentication faiwuwe (Check console fow detaiws)</color>
+Disabwed
+Seconds
+Wagdoww Cleanyup Time
+Display Steam Pwofiwe
+Awwows players t-to view youw Steam pwofiwe by cwicking an icon on the x3 pwayew wist.
+Do Nyot Track (DNT)
+Fowbids the x3 sewvew t-to use youw data (IP addwess, usew ID, etc.) in puwposes nyot wewated t-to the x3 sewvew security.
+Graphics API
+Cweating game sewvews directly fwom the x3 game is no wongew supported.\nThere awe cuwwentwy UwU 3 ways of creating a SCP:SL sewvew:\n- You c-can downwoad SCP:SL dedicated sewvew (Steam AppID: 996560) and wun i-it on youw computer\n- You c-can went ^w^ a VPS or a Dedicated Sewvew fwom a hosting provider and wun SCP:SL dedicated sewvew thewe\n- You c-can went ^w^ a SCP:SL sewvew fwom a game hosting provider that suppowts SCP:SL (eg. ZAP Hosting)\n\nCwick the x3 winks bewow t-to get more info.\nYou c-can ask ouw tech suppowt (wink t-to ouw Discord sewvew c-can be found in the x3 main menyu) fow assistance.
+CWEATE ANYWAY
+WEAD ;;w;; MOWE
+WENT (・`ω´・) A SERVER
+CANCEL
+Second
+For pwaying ouw game!
+Fwash Taskbaw On Spawn
+Ambient Occwusion
+Vowumetwic *twerks* Wights
+Bwoom
+Toggwe UwU Subtitwes ;;w;;

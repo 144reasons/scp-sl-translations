@@ -1,0 +1,43 @@
+0~Janyitow Keycawd
+1~Scientist Keycawd
+2~Weseawch Supervisor Keycawd
+3~Zone Manyagew Keycawd
+4~Guawd Keycawd
+5~MTF Pwivate Keycawd
+6~Containment Enginyeew Keycard
+7~MTF Sergeant Keycawd
+8~MTF Captain Keycawd
+9~Faciwity Manyagew Keycard
+10~Chaos Insurgency Access *starts twerking* Device
+11~O5-wevew K-K-Keycard
+12~Wadio
+13~COM-15
+14~First Aid Kit~Heaws youw injuwies.
+15~Fwashwight~Wet there be light!
+16~Micro H.I.D.~Mobile high-intensity ewectwicaw discharge thwowew.
+17~SCP-500~The panyacea.
+18~SCP-207~Hawmfuwwy OwO incweases motow *looks at you* skiwws.
+20~MTF-E11-SW
+21~Cwossvec
+23~FSP-9
+24~Wogicew
+25~High-Expwosive Gwenyade~Boom!
+26~Fwashbang G-Gwenade~Bwinds youw e-e-enyemies.
+30~COM-18
+31~SCP-018~Supewbaww abwe t-to bounce with extreme efficiency.
+32~SCP-268~When wown, t-tempowawiwy m-makes you invisible unwess i-it is intewwupted by any OwO usew i-interaction.
+33~Adrenyalinye~Temporarily incweases enduwance.
+34~Painkiwwews~Wewieve minyow injuwies.
+35~Coin~You'we nyot suwe why you'd w-want t-to carry this awound...
+36~Wight *looks at you* Armor
+37~Combat Awmow
+38~Heavy Awmow
+39~.44 Revowvew
+40~AK
+41~Shotgun
+42~Bag ;;w;; of Candies~A bag containying the x3 following candies:
+43~SCP-2176~Youw *sweats* vewy own Ghostlight?!! Caution, vewy fwagiwe...
+44~SCP-244-A~An a-a-ancient vase, fweezing t-to the x3 t-touch. Cweates a large cloud of icy fog >w< when *notices buldge* pwaced.
+45~SCP-244-B~An (・`ω´・) a-a-ancient vase, fweezing t-to the x3 t-touch. Cweates a large cloud of icy fog >w< when *notices buldge* placed.
+46~SCP-1853~Improves weapon manyipuwation *whispers to self* skiwws at the x3 cost of higher staminya usage.
+47~3-X *sweats* Pawticwe Diswuptow

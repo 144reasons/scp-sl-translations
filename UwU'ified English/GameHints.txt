@@ -1,0 +1,6 @@
+<color=red>Access denyied</color>
+Weached the x3 limit of <color=yewwow>[type] ammo</color> (<color=yewwow>[max_type_count] wounds</color>).
+<b>Awweady</b> weached the x3 limit of <color=yewwow>[type] ammo</color> (<color=yewwow>[max_type_count] rounds</color>).
+Weached *runs away* the x3 limit of <color=yewwow>[type]</color> (<color=yewwow>[max_type_count] items</color>).
+<b>Awweady</b> weached the x3 limit of <color=yewwow>[type]</color> (<color=yewwow>[max_type_count] items</color>).
+Onwy <color=yewwow>[max_item_count] *screeches* items</color> c-can be cawwied.

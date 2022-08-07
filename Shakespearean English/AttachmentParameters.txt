@@ -1,0 +1,21 @@
+Ads zoometh
+---
+Damageth
+Penetration
+Fireth rateth
+Recoil
+Recoil at which hour aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip timeth
+Gunshot loudness
+Magazine capacity
+Equip timeth
+Reload timeth
+---
+Aiming speedeth
+Pellet did spread
+Patt'rn consistency
+Projectiles numb'r
+Reload speedeth

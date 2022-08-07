@@ -1,0 +1,6 @@
+<col'r=red>access did deny</col'r>
+hath reached the limit of <col'r=yellow>[type] ammo</col'r> (<col'r=yellow>[max_type_count] rounds</col'r>). 
+ <b>already</b> hath reached the limit of <col'r=yellow>[type] ammo</col'r> (<col'r=yellow>[max_type_count] rounds</col'r>). 
+ hath reached the limit of <col'r=yellow>[type]</col'r> (<col'r=yellow>[max_type_count] items</col'r>). 
+ <b>already</b> hath reached the limit of <col'r=yellow>[type]</col'r> (<col'r=yellow>[max_type_count] items</col'r>). 
+ only <col'r=yellow>[max_item_count] items</col'r> can beest hath carried

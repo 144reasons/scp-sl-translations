@@ -1,0 +1,17 @@
+The round hast did finish!
+scps winneth
+foundation wins
+insurgency wins
+stalemate
+the did escape subjects has't ov'rrun the facility.  Em'rgency response hast been scrambl'd. 
+ all threats to safety has't been neutraliz'd.  Site-02 is secureth once again. 
+ foundation presence hast been ext'rminat'd.  Op'ratives standing by f'r furth'r 'rd'rs. 
+ site-02 is und'r c'rtain controleth, but not without did cost.  The vict'r is undet'rmin'd. 
+ [summary_d_escaped] class-d did escape
+[summary_s_escaped] scientist(s) did survive
+the alpha warhead's detonation t'rminat'd [summary_warhead_kills] beings. 
+ the alpha warhead wast not detonat'd during this mission. 
+ the mission tooketh [summary_round_minutes] minutes and [summary_round_seconds] seconds. 
+ [summary_scp_t'rminated] t'rminat'd scps
+next round in [summary_next_round_countdown] seconds. 
+ the scps hath killed [summary_scpfrags] human beings

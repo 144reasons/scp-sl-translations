@@ -1,0 +1,43 @@
+0~janit'r keycard
+1~scientist keycard
+2~research sup'rvis'r keycard
+3~zone manag'r keycard
+4~guard keycard
+5~mtf private keycard
+6~containment engine'r keycard
+7~mtf s'rgeant keycard
+8~mtf captain keycard
+9~facility manag'r keycard
+10~chaos insurgency access device
+11~o5-level keycard
+12~radio
+13~com-15
+14~first aid kit~heals thy injuries. 
+15~flashlight~let th're beest lighteth!
+16~micro h. I. D. ~mobile high-intensity electrical discharge throweth'r. 
+17~scp-500~the panacea. 
+18~scp-207~harmfully increases mot'r arts. 
+20~mtf-e11-sr
+21~crossvec
+23~fsp-9
+24~logic'r
+25~high-explosive grenade~boom!
+26~flashbang grenade~blinds thy enemies. 
+30~com-18
+31~scp-018~sup'rball able to bounceth with extreme efficiency. 
+32~scp-268~when w'rn, temp'rarily maketh thee eyeless unless t is int'rrupt'd by any us'r int'raction. 
+33~adrenaline~temp'rarily increases endurance. 
+34~painkill'rs~relieve min'r injuries. 
+35~coin~you're not sure wherefore thee'd wanteth to carryeth this 'round. 
+36~light armeth'r
+37~combat armeth'r
+38~heavy armeth'r
+39~. 44 revolv'r
+40~ak
+41~shotgun
+42~bag of candies~a container enwheeling the following candies:
+43~scp-2176~your v'ry owneth ghostlight! caution, v'ry fragile. 
+44~scp-244-a~an ancient vase, freezing to the toucheth.  Creates a large cloud of icy fog at which hour did place. 
+45~scp-244-b~an ancient vase, freezing to the toucheth.  Creates a large cloud of icy fog at which hour did place. 
+46~scp-1853~improves weapon manipulation arts at the did cost of high'r stamina usage. 
+47~3-x particle disrupt'r

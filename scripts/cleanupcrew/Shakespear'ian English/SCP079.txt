@@ -1,0 +1,17 @@
+Auxiliary power
+experience
+camera feedeth online
+presseth [key] to toggle the surveillance mapeth
+exp'rience did gain:
+coop'rative w'rk
+class-d t'rmination assisteth
+ci t'rmination assisteth
+mtf t'rmination assisteth
+scientist t'rmination assisteth
+scp t'rmination assisteth
+lock'd doors: [locked_num]<size=25>right mouse button to unlocketh all</size>
+gen'ral int'ractions
+thou art being did attack!
+gen'rat'rs has't been highlight'd on the mapeth
+danger
+scps{0}mtf & guards{1}scientists{2}class-d{3}chaos insurgents{4}

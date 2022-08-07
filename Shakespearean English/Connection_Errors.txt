@@ -1,0 +1,38 @@
+<size=80>you has't been did kick</size>\nthe s'rv'r wast f'rc'd to stand ho the connection. 
+<size=80>disconnected</size>\nthe specifi'd host is not available. 
+<size=80>disconnected</size>\nthe specifi'd connection id doest not existeth. 
+<size=80>disconnected</size>\nthe specifi'd channel doest not existeth. 
+<size=80>disconnected</size>\ns'rv'r is full. 
+<size=80>disconnected</size>\nreceiv'd wrong packet. 
+<size=80>disconnected</size>\nconnection hath lost (tim'd out). 
+<size=80>disconnected</size>\nconnection hath lost (tim'd out). 
+<size=80>disconnected</size>\nop'ration is not supp'rt'd. 
+<size=80>disconnected</size>\nyour game v'rsion is diff'rent from the s'rv'r. 
+<size=80>disconnected</size>\ninvalid s'rv'r config. 
+<size=80>disconnected</size>\nthe addresseth is invalid 'r couldst not beest did resolve. 
+<size=80>disconnected</size>\nan unexpect'd problem hast did occur!
+<size=80>please waiteth</size>\n<size=35>establishing connection. </size>
+<size=80>round restart</size>\n<size=35>the round is restarting. </size>
+<size=80>please waiteth</size>\n<size=35>loading tut'rial. </size>
+<size=80>version incompatibility</size>\nyour game v'rsion is diff'rent from the s'rv'r\n(client - [your]; s'rv'r - [s'rv'r])
+<size=80>connected</size>\n<size=35>loading the leveleth. </size>
+<size=35>loading the facility. </size>
+<size=80>disconnected</size>\nunspecifi'd 'rr'r did occur on the s'rv'r. 
+<size=80>disconnected</size>\nthis s'rv'r requires authentication by central s'rv'rs. 
+<size=80>disconnected</size>\nyou art not whitelist'd on this s'rv'r. 
+<size=80>disconnected</size>\nyou has't been globally bann'd. 
+<size=80>disconnected</size>\nyou has't been globally banned: [reason]. 
+<size=80>disconnected</size>\nyou has't been bann'd from this s'rv'r. 
+<size=80>disconnected</size>\nyou has't been bann'd from this s'rv'r. \nban expires: [date] [time]
+<size=80>disconnected</size>\nyour authentication token hast expir'd. \ns'rv'r might has't invalid timeth 'r timezone setteth. \nplease contact an s'rv'r administrat'r. 
+<size=80>disconnected</size>\nyou has't been rateth limit'd.  Tryeth again in a few seconds. 
+<size=80>disconnected</size>\ns'rv'r is not accepting connections from thy geographic location. \ns'rv'r nameth 'r info may enwheel m're details. 
+<size=80>disconnected</size>\nyou has't been did kick by a s'rv'r modification. \n\nreason: [reason]\nthis is a s'rv'r modification, not a game favour. \ncontact an s'rv'r administrat'r f'r m're inf'rmation. 
+<size=80>disconnected</size>\nyour authentication token hast been reject'd by the s'rv'r. \nplease restart the game and tryeth again 'r contact studio technical supp'rt. 
+<size=80>disconnected</size>\nyou has't been bann'd from this s'rv'r. \nreason: [reason]
+<size=80>disconnected</size>\nyou has't been bann'd from this s'rv'r. \nban expires: [date] [time]\nreason: [reason]
+<size=80>please waiteth</size>\nprocessing s'rv'r security v'rification. 
+<size=80>disconnected</size>\nfail'd to processeth s'rv'r security v'rification. 
+<size=80>disconnected</size>\nprocessing of s'rv'r security v'rification wast too sloweth f'r the s'rv'r. \nplease tryeth again 'r contact s'rv'r administrat'r. 
+<size=80>auth error</size>\ncentral s'rv'r message: [message]. 
+<size=80>disconnected</size>\ns'rv'r is shutting down

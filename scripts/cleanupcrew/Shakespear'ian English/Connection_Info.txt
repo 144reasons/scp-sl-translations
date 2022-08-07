@@ -1,0 +1,10 @@
+Connecting
+establishing connection. 
+ round restarting
+the round is restarting. 
+ connecting
+loading the leveleth. 
+ connecting
+processing s'rv'r security v'rification. 
+ disconnecting
+unloading facility

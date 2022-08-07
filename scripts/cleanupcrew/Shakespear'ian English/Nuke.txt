@@ -1,0 +1,4 @@
+<size=180><col'r=red>disabled</col'r></size>
+<col'r=red><size=200>please waiteth</size></col'r>
+<col'r=lime><size=180>ready</size></col'r>
+detonation inevitable

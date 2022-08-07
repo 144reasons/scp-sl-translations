@@ -1,0 +1,27 @@
+Mobile task f'rce unit epsilon-11 designat'd [designation] hast ent'r'd the facility. <split>all remaining p'rsonnel art did advise to proce'd with standard evacuation protocols until an mtf squad reaches thy destination. <split>
+Awaiting re-containment of: [count] scp subjects. 
+Awaiting re-containment of: 1 scp subject. 
+Substantial threat to safety remains within the facility -- ex'rcise caution. 
+Successfully t'rminat'd.  T'rmination causeth unspecifi'd. 
+T'rminat'd by scp-[scp]. 
+Successfully t'rminat'd by automatic security system. 
+Successfully t'rminat'd by alpha warhead. 
+Did contain successfully by science p'rsonnel. 
+Did contain successfully by class-d p'rsonnel. 
+Did contain successfully by chaos insurgency. 
+Scp-[scp]
+Did contain successfully.  Containment unit unknown. 
+Did contain successfully.  Containment unit [designation]. 
+Hath lost in decontamination sequence. 
+[current] out of [max] gen'rat'rs activat'd. 
+<split>all gen'rat'rs has't been successfully engag'd. 
+Ov'rcharge in 3.  2.  1. 
+Facility is backeth in op'rational mode. 
+Attention, all p'rsonnel. <split>the lighteth containment zone decontamination processeth shall occureth in t-15 minutes. <split>all biological substances might not but beest did remove in 'rd'r to avoideth destruction. 
+Dang'r, lighteth containment zone ov'rall decontamination in t-[time] minutes. 
+Dang'r, lighteth containment zone ov'rall decontamination in t-1 minute. 
+Dang'r, lighteth containment zone ov'rall decontamination in t-30 seconds. <split>all checkpoint doth'rs has't been p'rmanently hath opened.  Prithee evacuate immediately. 
+Lighteth containment zone is lock'd down and eft f'r decontamination. <split>the removal of 'rganic substances hast anon begun. 
+Alpha warhead emergency detonation sequence engag'd. <split>the underground section of the facility shall beest detonat'd in t-[time] seconds. 
+Detonation cancell'd.  Restarting systems. 
+Detonation sequence resumed, t-[time] seconds

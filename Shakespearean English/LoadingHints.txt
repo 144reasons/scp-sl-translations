@@ -1,0 +1,63 @@
+Thee can disarmeth a playeth'r by int'racting with those folk while holding a firearm. 
+Th're art four main zones in the facility: lighteth containment, heavy containment, entrance, and surface. 
+Scientists and class-d wilt reacheth the surface to escapeth. 
+The entrance zone hast two gates, yond provideth access to the surface.  Thee'll needeth a keycard to ope those folk. 
+Using an elevat'r is a quick and easy way to escapeth most scps. 
+Did escape class-d joineth the chaos insurgency, while did escape scientists becometh mtf. 
+Adrenaline can beest hath used to instantly refresh thy stamina and gives thee advantage in combat. 
+Radios has't four range settings.  The longeth'r the range, the festinate'r the batt'ry drains. 
+Mobile task f'rce units and chaos insurgents arriveth at opposite ends of the surface zone. 
+The alpha warhead kills aught inside the facility at which hour t detonates.  T can beest activat'd from the surface zone. 
+The alpha warhead detonation sequence can beest cancel'd from its cubiculo in heavy containment. 
+The int'rcom cubiculo in the entrance zone can beest hath used to did broadcast a voice message to all playeth'rs. 
+Thee can throweth items ("t" by default).  This can beest hath used to ope keycard doth'rs from a distance 'r to breaketh glass. 
+The lighteth containment zone shall locketh down aft'r 15 minutes; killing anyone hath left inside.  Escapeth while thee can!
+Maximize thy advantage by adjusting thy weapon attachments bas'd on the situation thee findeth yourself in. 
+The m're attachments a weapon hast on t, the heavi'r t gets.  This affects stamina usage and movement speedeth. 
+Not only doth suppress'rs muffle gunshots, those gents eke encave muzzle flashes. 
+Longeth'r and heavi'r weapons art less accurate if 't be true fir'd while running. 
+Wearing corse armeth'r increases the numb'r of items and ammo thee can carryeth. 
+Armeth'r-pi'rcing rounds (ap) p'rf'rm most wondrous 'gainst armeth'r'd targets. 
+Hollow-point rounds (jhp) doth high'r damageth to unarm'r'd targets but art weak'r 'gainst armeth'r. 
+Presseth and holdeth the reload key to unload a weapon, adding its ammunition to thy inventeth'ry. 
+Chaos insurgency weapons art pow'rful but their ammunition doest not spawn in the facility.  Maketh t counteth. 
+Grenades can beest hath used to destroyeth doth'rs. 
+Grenades can beest thrown with less f'rce using the right mouse button. 
+The micro h. I. D.  can killeth most scps v'ry apace but hast a limit'd pow'r supplyeth.  Useth t wisely!
+The micro h. I. D.  requires about 5 seconds of charging bef're t can fireth. 
+Holding right mouse button shall keepeth the micro h. I. D.  at its ready-to-fire state; but soft draining en'rgy. 
+The micro h. I. D.  is v'ry loud while charging.  Maketh sure to useth t while thy targets can’t runneth hence. 
+Charging the micro h. I. D.  produces an intimidating soundeth which is enow to rid thy enemies' plans. 
+A bombard of scp-207 not only increases thy movement speedeth, but shall partially rest're thy health as well. 
+Up to four scp-207 bottles can beest malt-worm, allowing f'r a significant multipli'r to thy speedeth. 
+Scp-500 not only heals thee but removes most negative effects, and provides regen'ration aft'rwards. 
+While scp-268 maketh thee eyeless to all humans, scp-079 and scp-939s can still noticeth thee. 
+Scp-268 won’t saveth thee from scp-096 if 't be true you’ve did look at that gent. 
+Scp-018 is highly unpredictable.  At which hour it’s thrown, taketh cov'r. 
+Scp-018 can beest hath used to block off pursu'rs at which hour bouncing in a hallway. 
+Scp-914 can changeth all items, enwheeling weapons and ammunition. 
+Scp-914 can recharge radios and the micro h. I. D. 
+Scp-079 starts off relatively weak but gets m're pow'rful as a matcheth goeth on. 
+Scp-079 can locketh doth'rs, turneth off lights, and ov'rcharge tesla gates. 
+A tesla gate being did look at by scp-079 shall at each moment appeareth factious. 
+Scp-079 can’t turneth off lights in a cubiculo with a broken doth'r. 
+Scp-079 is recontain'd using gen'rat'rs hath found in heavy containment, and a final button in its containment chamb'r. 
+A cam'ra being hath used by scp-079 shall gloweth blue.  Thee nev'r knoweth at which hour t's watching. 
+Scp-173 can moveth freely in dark cubiculos, coequal if 't be true t's being did look at.  Bringeth a flashlight!
+Scp-173 can killeth stealthily from behind. 
+Scp-173 can maketh a puddle yond slows down humans yond walketh through t — creating quick and efficient area-denial. 
+Scp-106 is resistant to bullets but not explosives and electricity. 
+Scp-106 can apace beest recontain'd using the femur breaketh'r yond is hath found in its containment chamb'r. 
+Scp-106 can walketh through doth'rs and glass windows. 
+Scp-096 is at its weakest at which hour t hast just begun to halcyon down. 
+Scp-096 can chargeth f'rward while enrag'd – breaking doth'rs and killing targets. 
+Scp-096 shall destroyeth doth'rs and pry ope did close gates at which hour enrag'd. 
+Scp-939’s biteth is not affectioned by corse armeth'r. 
+Scp-939 inflicts amnesia upon humans t bites; darkening their vision. 
+Scp-939 can sprint indefinitely and is completely silent at which hour walking. 
+Scp-939 is silent at which hour walking, making t a p'rfect ambush predat'r. 
+Scps’ footsteps art distinct from human ones.  Hark carefully!
+Scp-049 can killeth any human instantly, if 't be true t gets closeth. 
+Scp-049 can only reanimate c'rpses if 't be true they’re green. 
+Scp-049-2 is vuln'rable to headshots. 
+Scp-049-2s maketh valorous scouts and art dang'rous in large numb'rs

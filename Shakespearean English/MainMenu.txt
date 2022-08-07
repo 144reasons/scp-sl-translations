@@ -1,0 +1,99 @@
+Joineth
+Closeth
+Shadow resolution
+Settings
+Bas'd on <i>scp: containment breach</i>
+Backeth
+Language
+Antialiasing
+Changeth details:\n-pixel lighteth counteth - maximum numb'r of lighteth sources yond has't their lighteth rend'r'd on individual pixels. \n-v-sync - enable synchronising with the refresh rateth of the displayeth device. 
+Joineth game
+Post\nprocessing
+Credits
+Did quit game
+Fullscreen mode
+Screen settings
+Coloreth correction
+Ent'r ip addresseth. 
+Screen resolution
+Playeth
+Pixel lighteth counteth
+Shadow typeth
+Shadows
+Maketh game
+Changeth post-processing settings.  These settings gen'rally affect not p'rf'rmance, leaving default values is recommend'd. 
+Lighteth rend'ring mode:\nwhen off, graphics quality is significantly did reduce.  Disabling this setting is only recommend'd f'r low-end comput'rs. 
+V-sync
+Connecteth
+Quality settings
+Changeth shadow pref'rences.  Setting these did slide'rs at base'r values may increaseth gameplay smoothness. 
+Main menu
+Rendereth lights
+Motion blur
+Shadow distance
+Details
+3.  Scp-914
+Tutorials
+Warning
+Browse available s'rv'rs
+Showeth not t again
+How wouldst thee liketh to connecteth?
+Serv'r browser
+Well enow
+Findeth matcheth
+2.  Using weapons
+We useth disc'rd as a f'rum.  Nay installation did need. \n(click the logo to joineth)
+By default, the s'rv'r shall setteth up on the local netw'rk. \nyour cater-cousins shall needeth the directeth ip addresseth to connecteth. \nif thee wanteth to setteth up a public s'rv'r, selecteth localadmin. exe and followeth the instructions. \nif thee has't any questions, prithee asketh our technical supp'rt (link in the main menu)
+1.  The basics
+The did present game is still in a public beta. \nyou may exp'rience connection problems and many oth'r bugs. \nthe current state doest not reflecteth the final v'rsion. 
+4.  (m're tut'rials lat'r)
+Directeth connecteth
+Tech supporteth / forum
+Soundeth volume
+Ent'r the ip addresseth of the specific s'rv'r. 
+Downloading data
+Nay servers available
+Presseth esc to closeth / cancel
+Key binding
+Max blood amount
+Fps limit
+Fps limit doest not w'rk at which hour vsync is enabled!
+Setteth default
+We useth steam discussions as a f'rum.  (click the logo below to ope the f'rum)
+Audio settings
+Master volume
+Menu music
+Voice chat
+Soundeth effects
+Gameplay options
+Festinate intro vade
+Class intro text shall vade out much m're apace. 
+Scp-079 - toggle view mode
+Presseth once to swap between cam'ra modes. 
+Scp-079 - post-processing
+If 't be true disabled, cam'ra effects shall beest heavily did reduce. 
+Headeth bob
+Enables first-p'rson cam'ra bobbing during movement. 
+Toggle sprint
+Sprinting toggles on and off, instead of being did hold down. 
+Separateth artificial hp bar
+Gives artificial hp its owneth health bar, instead of an ov'rlay. 
+Our translations art open-source on github!\nwant to holp? click h're to access the repo. 
+Rich presence
+If 't be true enabled, thy status shall beest did display on disc'rd/steam. 
+Displayeth exact hp value
+Displays exact hp, instead of just the p'rcentage. 
+Public lobby
+If 't be true enabled, thy steam cater-cousins can joineth thee without p'rmission. 
+Encave ip
+If 't be true enabled, any ip in client console is not did display. 
+Toggle searcheth
+Item pickup shall not require a did hold key; presseth again to cancel. 
+Applies soft shadows to c'rn'rs and tight areas to giveth models m're depth. 
+Gives the environment m're depth at a high p'rf'rmance did cost. 
+Gives lighting m're depth by applying a gloweth bas'd on the lighteth intensity. 
+Toggle to showeth subtitles f'r cassie announcements. 
+Flashes the taskbar at which hour thee spawn while the game is not in focus. 
+Smoothes lines and removes visual dist'rtions. 
+Synchronizes the in-game frameth rateth with thy monit'r's refresh rateth to stand ho screen tearing. 
+Project'd textures such as bullet holes 'r blood splatt'r

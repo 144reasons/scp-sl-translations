@@ -1,0 +1,93 @@
+News
+S'rv'rs
+Settings
+Did quit
+Social media
+Int'rnet
+Favourites
+Official
+Hist'ry
+Cater-cousins
+Searcheth s'rv'rs
+Maketh s'rv'r
+Re-join
+Directeth connecteth
+Refresh
+Hideth exsufflicate games
+Hideth full games
+Nay whitelist
+Video
+Audio
+Controls
+Gameplay
+Oth'rs
+Window mode
+Exclusive fullscreen
+B'rd'rless window
+Maximiz'd window
+Window'd
+V-sync
+Fps limit
+Off
+Texture quality
+Decals
+Shadows
+Shadow resolution
+Shadow distance
+Motion blur
+color c'rrection
+Anti aliasing
+Rend'r lights
+Mast'r volume
+Soundeth effects
+Voice chat
+Menu music
+Int'rface volume
+Menu theme
+Festinate intro vade
+Headeth bob
+Toggle sprint
+Displayeth exact hp value
+Rich presence
+Public lobby
+Toggle searcheth
+Scp-079 - toggle view mode
+Scp-079 - post-processing
+Language
+Main menu
+Connecteth
+Backeth
+This changeth shall require a reload. \nreload the menu anon?
+Aye
+Nay
+Art thee sure thee wanteth to did quit?
+Screen resolution
+Hideth ip
+Welcometh backeth, {us'rname}!
+Credits
+Authenticating
+Connecting to central s'rv'rs. 
+<color=green>connection established</color>
+<color=red>connection failure (check console f'r details)</color>
+<color=red>steam authentication failure (check console f'r details)</color>
+<color=red>disc'rd authentication failure (check console f'r details)</color>
+Disabl'd
+Seconds
+Ragdoll cleanup timeth
+Displayeth steam profile
+Allows playeth'rs to view thy steam profile by clicking an icon on the playeth'r listeth. 
+Doth not track (dnt)
+F'rbids the s'rv'r to useth thy data (ip addresseth, us'r id, etc. ) in purposes not did relate to the s'rv'r security. 
+Graphics api
+Creating game s'rv'rs directly from the game is nay longeth'r supp'rt'd. \nth're art currently 3 ways of creating a scp:sl s'rv'r:\n- thee can download scp:sl did dedicate s'rv'r (steam appid: 996560) and runneth t on thy comput'r\n- thee can did rend a vps 'r a did dedicate s'rv'r from a hosting provid'r and runneth scp:sl did dedicate s'rv'r th're\n- thee can did rend a scp:sl s'rv'r from a game hosting provid'r yond supp'rts scp:sl (eg.  Zap hosting)\n\nclick the links below to receiveth m're info. \nyou can asketh our tech supp'rt (link to our disc'rd s'rv'r can beest hath found in the main menu) f'r assistance. 
+Maketh concluded, be it
+Readeth moo
+Did rend a serv'r
+Cancel
+Second
+F'r playing our game!
+Flasheth taskbar on spawn
+Ambient occlusion
+Volumetric lights
+Bloom
+Toggle subtitles

@@ -1,0 +1,5 @@
+Thee kicked the bucket
+Presseth {keybinding_interaction} to lodging the <color=yellow>weapon manag'r tablet</color>. 
+Presseth {keybinding_interaction} to picketh up the <color=yellow>weapon manag'r tablet</color>. 
+This <color=yellow>w'rkstation</color> already hast someone else's <color=yellow>weapon manag'r tablet</color> did connect. 
+Thee needeth a <color=yellow>weapon manag'r tablet</color> to useth this <color=yellow>w'rkstation</color>

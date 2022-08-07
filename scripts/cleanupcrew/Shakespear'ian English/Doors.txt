@@ -1,0 +1,10 @@
+<col'r=green>open</col'r>
+<col'r=#07a2ff>closed</col'r>
+<col'r='range>moving</col'r>
+<col'r=red>lockdown</col'r>
+<col'r=red>error</col'r>
+<col'r=red>access did deny</col'r>
+<col'r=green>access did grant</col'r>
+<col'r=#07a2ff>keycard required</col'r>
+<col'r='range>please passeth</col'r>
+<col'r='range>closing</col'r>

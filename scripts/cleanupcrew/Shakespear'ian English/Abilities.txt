@@ -1,0 +1,31 @@
+Ability not hath found:the ability id associat'd with this ability doest not existeth. 
+ sprint:increases thy movement speedeth, but eke increases soundeth madeth while moving. 
+ sneaketh:your movements becometh silent, at the did cost of a lot of speedeth. 
+ inventeth'ry:open thy inventeth'ry and selecteth an item thee has't pick'd up using lmb, 'r dropeth t using rmb. 
+ unarmed:you has't nothing.  Findeth something.  Aught. 
+ access card:you has't an access card, t's not the most wondrous but loseth not t. 
+ standard issue:you art equipp'd with a rifle, grenades, a radio and an access card. 
+ cap-a-pe & dang'rous:you has't did consign a lighteth machine caliver, a hacking tool (access card), and a first-aid kit. 
+ breakneck speeds:no matt'r wh're those gents hideth, thee shall findeth those folk in dram timeth, and those gents shall seeth thee f'r less.  Doubleth thy movement speedeth and blinketh distance, at the did cost of thy lethality.  Lasts until sh'rtly aft'r being witnessed, 'r cancell'd manually. 
+ blinketh:once those gents did lie eyes on thee, maketh those folk regreteth breaking sight, coequal f'r a moment.  At which hour the eye turns crimson, holdeth and moveth the indicat'r to a did desire location.  Releaseth to telep'rt and killeth the nearest human within 2 hath met'rs. 
+ sinkhole:you can lodging a black pool of c'rrosion and telep'rt backeth to t at any timeth.  Telep'rting doth take a few seconds. \nyou can moveth thy sinkhole by placing t again. 
+ c'rrosion:you can moveth through doth'rs by walking into those folk. 
+ swan song: thee taketh almost nay damageth from bullets, but thee can beest instantly recontain'd via a human sacrifice within thy containment chamb'r. 
+ pocket dimension:captures a human and telep'rts those folk to a pocket dimension yond apace kills those folk.  Humans might not but chooseth the c'rrect exit, 'r kicketh the bucket. 
+ scopophobia:you starteth docile, and becometh enrag'd at which hour thou art seen 'r did hurt.  Quell thy rage by killing transgress'rs - followeth their lighteth bef're thy fury subsides.  The indignity of each offendeth'r adds to thy ahp, preventing harmeth to thee as longeth as t stands. 
+ tryeth not to caterwauling (docile):it's too hard.  Leaning on a doth'r helps; thee becometh quiet'r and standeth in lodging 'gainst t, calming yourself down.  'r waiting f'r someone to cometh through. 
+ melee attacketh (rage):tear through aught in thy way to receiveth to those who is't've did hurt thee.  Thy attacks shall destroyeth doth'rs and killeth most humans instantly. 
+ ultrasensitive:you can't seeth humans unless those gents runneth, jowl thee, 'r fireth a weapon in closeth proximity to thee. 
+ predat'r:your footsteps art silent.  Holding the assign'd key increases thy speedeth, but maketh thy movement audible. 
+ mimic:you can speaketh out loud to any nearby playeth'rs, enwheeling humans. 
+ biteth:attacks a human in melee range, instantly dealing sev're damageth. 
+ antidote:touches a human within closeth range, instantly killing those folk. 
+ the cureth:reanimates a recently hath killed human.  Did cure humans playeth as carrions with festinate movement and base health. \nth're is nay limit on how many humans can beest reanimat'd. 
+ striketh:attacks a human and deals a mod'rate amount of damageth to those folk. 
+ ope/close doth'rs:you can int'ract with doth'rs to ope and closeth those folk f'r 5 ap.  Thee can eke locketh those folk down, draining thy ap but preventing anyone from opening 'r closing t until thee lift the lockdown 'r runneth out of ap. 
+ tesla ov'rcharge:you can activateth a tesla gate f'r 50 ap to instantly trigg'r t, killing any playeth'rs in 'r near t. 
+ lockdown:starting at access leveleth 2, thee can int'ract with some cubiculos to locketh those folk down, shutting off all lights and closing all doth'rs.  While in lock'd down cubiculos, humans can't seeth scp-173. 
+ virtually indestructible: three gen'rat'rs spawn across the heavy containment zone.  If 't be true all of those folk art unlock'd and activated, thee becometh recontain'd. \ngen'rat'rs has't a countdown sequence yond any playeth'r can int'rrupt by pressing the "cancel" button on the gen'rat'r. 
+ reinf'rc'd concrete:accept their gazes of admiration, but standeth thy did grind 'gainst their vandalism.  Thee has't built-in resistance to gunfire.  Low-penetration weapons dealeth significantly less damageth did compare to pi'rcing weaponry. 
+ chargeth (rage):cut their escapes sh'rt - those gents des'rve t.  Thee bolteth straight ahead, demolishing aught in front of thee f'r a sh'rt distance.  If 't be true thee hitteth a heavy gate, thee f'rce yourself through t. 
+ tantrum:let those folk knoweth thy fury.  Maketh a pool of filth und'rneath thee yond stains and greatly inhibits the mobility of humans who is't passeth through t.  Killing stain'd humans shall recov'r some of thy hume buckler

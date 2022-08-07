@@ -1,0 +1,44 @@
+Voice volume
+Aye
+Forceth starteth
+Scp-106 re-containment\nprocedure o'erride
+Inv'rt y-axis
+Summary
+Cancel
+I n v e n t o r y
+Brightness
+Settings
+Disconnect
+Alpha warhead is disabl'd
+Access did deny
+Voice chat
+Inventoryeth o'erload
+Mouse sensitivity
+Hacking
+Picking up. 
+Increasing brightness <b>significantly w'rsens the humor </b>of the game. \ntry to setteth this value to as base as thee can. \n<b>the default value is recommend'd. </b>
+[1] ope/close door\n[2] locketh door*\n\n*locking the doth'r uses special ability
+Do'r hast been lock-down by scp-079
+Fullscreen mode
+Art thee sure thee wanteth to leaveth the s'rv'r?
+Basic options.  Full listeth of settings in the menu. 
+Waiting f'r players
+Summary
+Continueth
+Main volume
+Did connect
+Thee did escape as a scientist and did join the mtf units. 
+Thee did escape as a class d and did join the chaos insurgency. 
+Thou art
+Escapeth timeth: [escape_minutes] minutes and [escape_seconds] seconds
+Waiteth [time] until thee can useth [item] again. 
+Presseth <color=yellow><b>f1</b></color> f'r holp. 
+Thee has't been cuff'd. \n<size=40>follow 'rd'rs 'r asketh teammates f'r holp. </size>
+Thee w're recaptur'd by the nine-tail'd fox. \nwith one less threat in the facility, those gents w're able to reinf'rce. 
+Thee w're taken prison'r as a scientist by the chaos insurgency. \nthey w're able to gain an advantage from the inf'rmation thee gaveth those folk. 
+Round starts in: <color=yellow>{0}</color>s
+Round starteth is <color=#ff5050>paused</color>
+Aiming sens.  Reduction
+Presseth [key] to cancel the throweth. 
+Ads toggle
+Mute spectat'r chat

@@ -1,0 +1,99 @@
+JOIN
+CWOSE
+SHADOW WESOWUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BWEACH</i>
+BACK
+WANGUAGE
+ANTIAWIASING
+Change *screams* detaiws:\n-PIXEW WIGHT COUNT *cries* - Maximum nyumbew of wight sources that have theiw wight wendewed on individual pixews.\n-V-Sync - Enyabwe synchronyising with the x3 wefwesh wate of the x3 display device.
+JOIN GAME
+POST\nPROCESSING
+CREDITS
+QUIT ÚwÚ GAME
+Fuwwscween mode
+SCWEEN SETTINGS
+COWOW COWWECTION
+Enter IP Addwess...
+SCREEN *whispers to self* RESOLUTION
+PLAY
+PIXEL WIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CWEATE G-GAME
+Change post-processing settings. These settings generally don't affect pewfowmance, weaving *looks at you* default values is recommended.
+Wight :3 wendewing mode:\nWhen *twerks* off, gwaphics quawity is significantwy reduced. Disabling this setting is only wecommended *starts twerking* fow low-end computers.
+V-SYNC
+CONNyECT
+QUAWITY S-SETTINGS
+Change shadow pwefewences. Setting these sliders at lower values may incwease gameplay smoothnyess.
+MAIN MENU
+WENDEW *walks away* LIGHTS
+MOTION BWUW
+SHADOW D-D-DISTANCE
+DETAIWS
+3. SCP-914
+TUTORIALS
+WARNyING
+Browse avaiwabwe sewvews
+Don't show i-it again
+How w-wouwd you like t-to c-c-connyect?
+SERVER BWOWSEW
+OKAY
+FIND MATCH
+2. *blushes* Using weapons
+We use Discord as a fowum. Nyo i-instawwation nyeeded.\n(cwick the x3 wogo t-to join)
+By default, the x3 sewvew wiww set up on the x3 local netwowk.\nYouw fwiends wiww nyeed the x3 diwect IP addwess t-to connyect.\nIf you w-want t-to set up a pubwic server, sewect WocalAdmin.exe and follow the x3 i-i-instwuctions.\nIf you have any OwO questions, please ask ouw technyical suppowt (wink in the x3 main menyu)
+1. the *runs away* basics
+The pwesented game is stiww in a pubwic beta.\nYou may expewience connection problems and many othew bugs.\nThe cuwwent state does nyot reflect the x3 finyal vewsion.
+4. (more tutorials later)
+DIWECT CONNyECT
+TECH SUPPOWT / FORUM
+SOUND VOWUME
+Enter the x3 IP addwess of the x3 specific server.
+DOWNLOADING DATA
+NO SERVERS AVAIWABWE
+PWESS ESC TO CLOSE / CANCEL
+KEY x3 BINDING
+MAX B-BWOOD A-AMOUNT
+FPS Wimit
+FPS Limit does nyot wowk (・`ω´・) when *notices buldge* vSync is enabled!
+Set Defauwt
+We use Steam Discussions as a fowum. (Click the x3 wogo bewow t-to open the x3 forum)
+AUDIO SETTINGS
+MASTEW VOWUME
+MENyU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTWO FADE
+Cwass intwo text wiww fade out much more quickwy.
+SCP-079 - TOGGLE VIEW MODE
+Pwess once t-to swap between camewa modes.
+SCP-079 OwO - POST-PWOCESSING
+If disabwed, *walks away* camewa e-e-effects wiww be h-heaviwy weduced.
+HEAD BOB
+Enabwes first-person camewa bobbing ^-^ during muvment.
+TOGGLE SPWINT
+Sprinting toggwes on and off, instead of b-being hewd >w< down.
+SEPARATE AWTIFICIAW H-HP BAR
+Gives awtificiaw H-HP its own heawth *sweats* bar, instead of an uvwway.
+Ouw twanswations awe open-souwce on GitHub!\nWant t-to hewp?!?1 Cwick >w< h-h-hewe t-to access the x3 wepo.
+WICH PRESENCE
+If ^-^ enyabwed, youw status wiww be dispwayed on Discord/Steam.
+DISPLAY EXACT H-HP VAWUE
+Dispways exact (・`ω´・) HP, ÚwÚ instead of just *whispers to self* the x3 percentage.
+PUBWIC *sweats* WOBBY
+If enyabwed, youw steam fwiends c-can join you without pewmission.
+HIDE IP
+If enyabwed, any OwO IP in client console is nyot dispwayed.
+TOGGWE SEAWCH
+Item pickup wiww nyot require a hewd >w< key; pwess again *sees bulge* t-to cancew.
+Appwies s-soft shadows t-to cownyews and tight aweas t-to give models more depth.
+Gives the x3 enviwonment more depth at a high pewfowmance cost.
+Gives lighting more depth by applying a glow based on the x3 wight intensity.
+Toggwe t-to show subtitwes fow cassie annyouncements.
+Fwashes the x3 taskbar when *notices buldge* you spawn whiwe the x3 game is nyot in focus.
+Smoothes l-linyes and remuvs visuaw *notices buldge* distowtions.
+Synchwonizes the x3 in-game fwame ;;w;; wate with youw m-m-monyitor's wefwesh wate t-to stop *looks at you* scween tearing.
+Projected textures such *twerks* as bullet holes or blood spwattew.

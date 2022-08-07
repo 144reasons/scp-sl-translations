@@ -1,0 +1,38 @@
+<size=80>YOU HAVE BEEN KICKED</size>\nThe sewvew was fowced t-to stop *looks at you* the x3 connyection.
+<size=80>DISCONNECTED</size>\nThe specified host is nyot available.
+<size=80>DISCONNECTED</size>\nThe specified connection ID does nyot exist.
+<size=80>DISCONNECTED</size>\nThe specified channyel >w< does nyot exist.
+<size=80>DISCONNECTED</size>\nSewvew is full.
+<size=80>DISCONNECTED</size>\nWeceived wwong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (-(-(timed out).
+<size=80>DISCONNECTED</size>\nConnyection lost (-(-(timed out).
+<size=80>DISCONNECTED</size>\nOpewation is nyot suppowted.
+<size=80>DISCONNECTED</size>\nYouw ^w^ game vewsion is diffewent fwom the x3 server.
+<size=80>DISCONNECTED</size>\nInvalid sewvew c-config.
+<size=80>DISCONNECTED</size>\nThe addwess is invawid or could nyot be resolved.
+<size=80>DISCONNECTED</size>\nAn unyexpected pwobwem has occuwwed!
+<size=80>PWEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>WOUND *sweats* WESTAWT</size>\n<size=35>The wound is restarting...</size>
+<size=80>PWEASE WAIT</size>\n<size=35>Woading *sweats* tutowiaw...</size>
+<size=80>VERSION :3 INCOMPATIBILITY</size>\nYouw *looks at you* game vewsion is diffewent fwom the x3 sewvew\n(Cwient - [your]; Sewvew - [sewvew])
+<size=80>CONNECTED</size>\n<size=35>Loading the x3 level...</size>
+<size=35>Woading the x3 faciwity...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occuwwed on the x3 sewvew.
+<size=80>DISCONNECTED</size>\nThis sewvew wequiwes *twerks* a-a-authentication by central sewvews.
+<size=80>DISCONNECTED</size>\nYou awe nyot whitelisted on this sewvew.
+<size=80>DISCONNECTED</size>\nYou have been globally bannyed.
+<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou have been banned ^-^ fwom this sewvew.
+<size=80>DISCONNECTED</size>\nYou have been banned ^-^ fwom this sewvew.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYouw a-a-authentication token has expiwed.\nSewvew m-might have invawid time or timezone set.\nPlease contact an sewvew adminyistrator.
+<size=80>DISCONNECTED</size>\nYou ;;w;; have been wate limited. Twy again *sees bulge* in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is nyot a-accepting connections fwom youw geographic wocation.\nSewvew nyame or info *sweats* may contain more detaiws.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a sewvew modification.\n\nReason: [reason]\nThis is a sewvew modification, nyot a game featuwe.\nContact an sewvew administwatow fow more infowmation.
+<size=80>DISCONNECTED</size>\nYouw a-a-authentication token has been wejected by the x3 server.\nPlease westawt *cries* the x3 game and try again *sees bulge* or contact studio technyical suppowt.
+<size=80>DISCONNECTED</size>\nYou have been banned ^-^ fwom this sewvew.\nWeason: [reason]
+<size=80>DISCONNECTED</size>\nYou have been banned ^-^ fwom this sewvew.\nBan expires: [date] [time]\nWeason: [reason]
+<size=80>Pwease wait</size>\nPwocessing ^-^ sewvew secuwity vewification...
+<size=80>DISCONNECTED</size>\nFaiwed t-to process sewvew secuwity vewification.
+<size=80>DISCONNECTED</size>\nPwocessing of sewvew secuwity vewification was too *twerks* swow fow the x3 server.\nPlease try again *sees bulge* or contact sewvew administwatow.
+<size=80>AUTH EWWOW</size>\nCentwaw Sewvew Message: [message].
+<size=80>DISCONNECTED</size>\nSewvew is shutting down. *boops your nose*

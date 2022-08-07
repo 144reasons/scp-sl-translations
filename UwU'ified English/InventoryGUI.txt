@@ -1,0 +1,17 @@
+Ammo {0}/{1} ^w^ {2}
+Damage
+Fiwe Rate
+Hip Accuracy
+ADS Accuwacy
+Weight
+Wength
+DWOP:
+Hewmet E-Efficacy
+Vest Efficacy
+Staminya Usage
+Muvment Speed
+Item Wimits:
+Ammo Wimits:
+{0} total
+Armor Penetwation
+Running *screeches* Accuwacy

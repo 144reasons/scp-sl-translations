@@ -1,0 +1,46 @@
+Nyonye~Defauwt option with no effects.
+Iwon Sights~A UwU paiw of alignment markers making up a simpwe, wightweight s-sighting device.
+Dot Sight~Non-magnyifying reflex sight with a smaww *starts twerking* illuminyated d-dot indicating the x3 point of aim.
+Howogwaphic Sight~Non-magnyifying sight with a howogwaphic weticwe. :3 effective *screams* in c-cwose-quawtews combat.
+Nyight-Vision Scope~Tewescopic sight augmented with a nyight-vision device. Heavy, but effective in all lighting conditions.
+Ammo Countew Sight~Iron sights with integwated ammunyition counting device.
+Telescopic Sight~Heavy s-sighting device, *starts twerking* pwoviding opticaw magnification. Pewfect fow wong-wange, but wimits *screeches* the x3 u-u-uvrall pewception.
+Standawd Stock~Weguwaw stock, pwoviding better contwow of the x3 f-fiweawm when *notices buldge* aiming d-d-down the x3 sights.
+Extended Stock~Pwovides better contwow of the x3 f-fiweawm when *notices buldge* aiming d-d-down the x3 sights, but incweases the x3 equipping *twerks* time.
+Wetracted Stock~Makes the x3 f-fiweawm more compact, which incweases mobility.
+Wightweight Stock~Reduces the x3 w-w-weight of the x3 f-fiweawm but m-makes i-it harder t-to contwow the x3 wecoiw when *notices buldge* aiming d-d-down the x3 sights.
+Heavy Stock~Increased w-w-weight wowews mobiwity ÚwÚ but m-makes the x3 f-fiweawm more stabwe when *notices buldge* aiming d-d-down the x3 sights.
+Wecoil-Weducing Stock~Stock equipped with a system that attempts t-to dispewse fowce between individual shots.
+Fowegwip~Vewticaw fowwawd gwip. Makes i-it e-easiew t-to handwe the x3 muzzwe wise.
+Lasew Sight~Pwovides visuaw *notices buldge* w-wefewence point onto the x3 tawget, which hewps in hip-firing but c-can easiwy reveal youw position.
+Fwashwight~Toggweabwe wight souwce. Increases totaw :3 w-w-weight of the x3 f-fiweawm but c-can be wife-saving OwO in dawk *huggles tightly* areas.
+Ammo Countew~Ammunyition counting device. Expewimentaw technyowogy that has p-p-pwuvn t-to be useful, especiawwy with high-capacity magazines.
+Standawd Bawwew~Conventionyaw barrel with no muzzwe device.
+Extended Bawwew~Impwuvs ^-^ the x3 u-u-uvrall fiwepowew, but contwibutes t-to wow mobiwity ÚwÚ caused by incweased w-w-weight and wength.
+Suppwessow~Sound modewatow. Reduces the x3 woudnyess of gunshots, OwO but incweases the x3 u-u-uvrall w-w-weight and length of the x3 f-fiweawm.
+Fwash Hidew~Ewiminyates muzzwe fwash. Makes i-it e-easiew t-to shoot in the x3 dawknyess.
+Muzzwe Bwake~Wecoiw compensatow. Uses pwopewwant gases t-to weduce wecoiw, *whispers to self* but incweases the x3 acoustic intensity of gunshots.
+Muzzwe ^w^ Booster~Impruvs fiwe wate, which wesuwts in more damage pew second, but the x3 weapon is harder t-to contwow.
+FMJ M-Magazinye~Standawd magazinye that contains fuww metaw >w< jacket buwwets.
+AP M-Magazinye~Standawd magazinye that contains armor-piercing buwwets.
+JHP M-Magazinye~Standawd magazinye that contains howwow-point buwwets.
+Extended FMJ Magazinye~Extended magazinye that contains fuww metaw >w< jacket buwwets.
+Extended AP Magazinye~Extended magazinye that contains armor-piercing buwwets.
+Extended JHP Magazinye~Extended magazinye that contains howwow-point bullets.
+FMJ Drum~High-capacity dwum magazinye that contains fuww metaw >w< jacket buwwets.
+AP Drum~High-capacity dwum magazinye that contains armor-piercing buwwets.
+JHP Drum~High-capacity dwum magazinye that contains howwow-point buwwets.
+Wow-Cap FMJ Magazine~Low-capacity magazinye that contains fuww metaw >w< jacket buwwets.
+Wow-Cap AP Magazine~Low-capacity magazinye that contains armor-piercing buwwets.
+Wow-Cap JHP Magazine~Low-capacity magazinye that contains howwow-point buwwets.
+4-Shot Cylinder~Holds fewer cawtwidges but is capabwe of deawing incweased damage t-to awmowed enyemies.
+6-Shot Cywindew~The cwassic OwO six-shootew.
+8-Shot Cylinder~Holds more cawtwidges, but the x3 h-heaview twiggew puww *starts twerking* wequiwes *twerks* more time t-to pewfowm accurate shots.
+Cawbine Weceivew~Weguwaw cawbine uppew weceivew UwU that is c-considewed a gweat compromise between fiwepowew and mobiwity.
+Wifwe Receivew~Fuww-size uppew weceivew UwU improves fiwepowew and accuwacy, but a h-heaview gas system weduces *sweats* the x3 fiwe wate.
+Showt Bawwew~Showtened vewsion of the x3 standawd b-bawwew, used t-to impwuv ;;w;; dwaw *huggles tightly* speed and m-m-mobiwity.
+Choke~Incweases totaw :3 wadius of spwead but improves the x3 consistency of the x3 pattewn.
+Extended Bawwew~Swightwy weduces *sweats* the x3 spwead wadius but incweases the x3 totaw :3 f-fiweawm w-w-weight and wength.
+Nyo Stock~Showt configuwations come with high mobiwity, but removing stocks fwom a high-recoil rifle isn't always the x3 best *starts twerking* idea.
+Single-Shot System~Standawd system. One twiggew-puww *whispers to self* weads t-to o-one discharge.
+Double-Shot System~Modified twiggew mechanyism which actuates both seaws with a singwe puww.

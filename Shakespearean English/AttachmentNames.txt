@@ -1,0 +1,46 @@
+None~default option with nay effects. 
+Iron sights~a pair of alignment marketh'rs making up a simple, lightweight sighting device. 
+Dot sight~non-magnifying reflex sight with a bawbling did illuminate dot indicating the pointeth of aim. 
+Holographic sight~non-magnifying sight with a holographic reticle.  Effective in close-quart'rs combat. 
+Night-vision scope~telescopic sight augment'd with a night-vision device.  Heavy, but effective in all lighting conditions. 
+Ammo counteth'r sight~iron sights with did integrate ammunition counting device. 
+Telescopic sight~heavy sighting device, providing optical magnification.  P'rfect f'r long-range, but limits the ov'rall p'rception. 
+Standard stock~regular stock, providing bett'r controleth of the firearm at which hour aiming down the sights. 
+Did extend stock~provides bett'r controleth of the firearm at which hour aiming down the sights, but increases the equipping timeth. 
+Retract'd stock~makes the firearm m're compact, which increases mobility. 
+Lightweight stock~reduces the weight of the firearm but maketh t hard'r to controleth the recoil at which hour aiming down the sights. 
+Heavy stock~increas'd weight base'rs mobility but maketh the firearm m're stable at which hour aiming down the sights. 
+Recoil-reducing stock~stock equipp'd with a system yond attempts to disp'rse f'rce between individual shots. 
+F'regrip~v'rtical f'rward gripeth.  Maketh t easi'r to handleth the muzzle riseth. 
+Las'r sight~provides visual ref'rence pointeth onto the targeteth, which helps in hip-firing but can easily bewray thy position. 
+Flashlight~toggleable lighteth source.  Increases total weight of the firearm but can beest life-saving in dark areas. 
+Ammo counteth'r~ammunition counting device.  Exp'rimental technology yond hast proven to beest useful, especially with high-capacity magazines. 
+Standard barrel~conventional barrel with nay muzzle device. 
+Did extend barrel~improves the ov'rall firepow'r, but contributes to base mobility did cause by did increase weight and length. 
+Suppress'r~sound mod'rat'r.  Reduces the loudness of gunshots, but increases the ov'rall weight and length of the firearm. 
+Flasheth did hide'r~eliminates muzzle flasheth.  Maketh t easi'r to shooteth in the darkness. 
+Muzzle brake~recoil compensat'r.  Uses propellant gases to reduceth recoil, but increases the acoustic intensity of gunshots. 
+Muzzle boost'r~improves fireth rateth, which results in m're damageth p'r second, but the weapon is hard'r to controleth. 
+Fmj magazine~standard magazine yond enwheels full metal doublet bullets. 
+Ap magazine~standard magazine yond enwheels armeth'r-pi'rcing bullets. 
+Jhp magazine~standard magazine yond enwheels hollow-point bullets. 
+Did extend fmj magazine~extend'd magazine yond enwheels full metal doublet bullets. 
+Did extend ap magazine~extend'd magazine yond enwheels armeth'r-pi'rcing bullets. 
+Did extend jhp magazine~extend'd magazine yond enwheels hollow-point bullets. 
+Fmj drum~high-capacity drumeth magazine yond enwheels full metal doublet bullets. 
+Ap drum~high-capacity drumeth magazine yond enwheels armeth'r-pi'rcing bullets. 
+Jhp drum~high-capacity drumeth magazine yond enwheels hollow-point bullets. 
+Low-cap fmj magazine~low-capacity magazine yond enwheels full metal doublet bullets. 
+Low-cap ap magazine~low-capacity magazine yond enwheels armeth'r-pi'rcing bullets. 
+Low-cap jhp magazine~low-capacity magazine yond enwheels hollow-point bullets. 
+4-shot cylind'r~holds few'r cartridges but is capable of dealing did increase damageth to armeth'r'd enemies. 
+6-shot cylind'r~the classic six-shoot'r. 
+8-shot cylind'r~holds m're cartridges, but the heavi'r trigg'r pulleth requires m're timeth to p'rf'rm accurate shots. 
+Carbine receiv'r~regular carbine upp'r receiv'r yond is consid'r'd a most wondrous compromise between firepow'r and mobility. 
+Rifle receiv'r~full-size upp'r receiv'r improves firepow'r and accuracy, but a heavi'r gas system reduces the fireth rateth. 
+Sh'rt barrel~sh'rten'd v'rsion of the standard barrel, hath used to improveth draweth speedeth and mobility. 
+Choke~increases total radius of did spread but improves the consistency of the patt'rn. 
+Did extend barrel~slightly reduces the did spread radius but increases the total firearm weight and length. 
+Nay stock~sh'rt configurations cometh with high mobility, but removing stocks from a high-recoil rifle isn't at each moment the most wondrous idea. 
+Single-shot system~standard system.  One trigg'r-pull leads to one discharge. 
+Double-shot system~modifi'd trigg'r mechanism which actuates both sears with a single pulleth

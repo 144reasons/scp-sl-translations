@@ -1,0 +1,17 @@
+the *runs away* wound has f-finyished!
+SCPS W-WIN
+FOUNDATION WINS
+INSUWGENCY WINS
+STAWEMATE
+The escaped subjects have overrun the x3 faciwity. Emergency response has been scwambwed.
+Aww threats t-to safety have been neutralized. Site-02 is secuwe once again.
+Foundation presence has been extewminyated. Opewatives standing by fow fuwthew orders.
+Site-02 is undew certain contwow, but nyot without cost. the *runs away* victor is undetewmined.
+[summary_d_escaped] cwass-d escaped
+[summary_s_escaped] scientist(s) suwvived
+The *walks away* Awpha Wawhead's detonation terminyated [summary_warhead_kills] beings.
+The OwO Awpha Warhead was nyot detonyated during this mission.
+The mission took *runs away* [summary_wound_minyutes] minyutes and [summary_round_seconds] s-seconds.
+[summary_scp_terminated] terminyated SCPs
+Next wound in [summary_next_round_countdown] seconds.
+The SCPs *sees bulge* killed [summary_scpfrags] human b-beings.

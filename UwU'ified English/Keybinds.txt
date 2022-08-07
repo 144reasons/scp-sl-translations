@@ -1,0 +1,30 @@
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Snyeak
+Move Forward
+Muv Backwawd
+Muv Left
+Muv Wight
+Pwayew Wist
+Chawactew Info
+Wemote Admin
+Toggwe Fwashwight
+Awt V-Voice Chat
+Nyocwip
+Game Console
+Keycard Hotkey
+Inspect
+Cock Wevowvew
+Thwow Item
+Pwimawy Weapon Hotkey
+Secondawy Weapon Hotkey
+Medicaw Hotkey
+Hide GUI
+Toggle Nocwip Fog
+Gwenade Hotkey

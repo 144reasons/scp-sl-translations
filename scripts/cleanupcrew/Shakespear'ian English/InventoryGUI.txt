@@ -1,0 +1,17 @@
+Ammo {0}/{1} {2}
+damageth
+fireth rateth
+hip accuracy
+ads accuracy
+weight
+length
+dropeth:
+helmet efficacy
+vest efficacy
+stamina usage
+movement speedeth
+item limits:
+ammo limits:
+{0} total
+armeth'r penetration
+running accuracy

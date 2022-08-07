@@ -1,0 +1,17 @@
+Ammo {0}/{1} {2}
+Damageth
+Fireth rateth
+Hip accuracy
+Ads accuracy
+Weight
+Length
+Dropeth:
+Helmet efficacy
+Vest efficacy
+Stamina usage
+Movement speedeth
+Item limits:
+Ammo limits:
+{0} total
+Armeth'r penetration
+Running accuracy

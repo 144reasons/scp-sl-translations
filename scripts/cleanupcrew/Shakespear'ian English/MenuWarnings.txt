@@ -1,0 +1,4 @@
+Warning
+well enow
+<b>intel graphics</b> has't been did detect which is <b>not supp'rted</b>. \nit is <b>recommended</b> to useth a <b>non-integrated</b> graphics card. \nthe game may <b>often crasheth</b> with the current setup. 
+ an imp'rtant system updateth yond is requir'd by the voice chat cannot beest hath found.  Prithee ensureth yond thy windows is fully up to date, oth'rwise the game may not function prop'rly.  If 't be true this issue p'rsists, prithee contact our tech supp'rt team f'r furth'r assistance

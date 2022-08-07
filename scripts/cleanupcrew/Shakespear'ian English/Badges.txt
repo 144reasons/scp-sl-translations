@@ -1,0 +1,58 @@
+N'rthwood chief executive offic'r
+n'rthwood chief inf'rmation offic'r
+n'rthwood chief op'rations offic'r
+n'rthwood community directeth'r
+n'rthwood disc'rd manag'r
+n'rthwood executive assistant
+n'rthwood feedback manag'r
+n'rthwood human resources
+n'rthwood human resources directeth'r
+n'rthwood marketing platf'rm manag'r
+n'rthwood staff
+n'rthwood steam manag'r
+n'rthwood system administrat'r
+n'rthwood wiki manag'r
+scp:sl art manag'r
+scp:sl art sup'rvis'r
+scp:sl artist
+scp:sl backend programm'r
+scp:sl backend programming manag'r
+scp:sl developeth'r
+scp:sl nonce winn'r
+scp:sl fullstack programm'r
+scp:sl game designeth'r
+scp:sl gameplay programm'r
+scp:sl global mod'ration manag'r
+scp:sl global mod'rat'r
+scp:sl leadeth game designeth'r
+scp:sl leadeth gameplay programm'r
+scp:sl leveleth designeth'r
+scp:sl partn'r
+scp:sl patreon supp'rt'r
+scp:sl quality assurance manag'r
+scp:sl soundeth designeth'r
+scp:sl game directeth'r
+scp:sl official s'rv'r manag'r
+n'rthwood v'rification specialist
+scp:sl anti-cheat developeth'r
+scp:sl quality assurance testeth'r
+scp:sl quality assurance sup'rvis'r
+scp:sl twitch subscrib'r
+scp:sl audio manag'r
+n'rthwood feedback co'rdinat'r
+n'rthwood v'rification sup'rvis'r
+scp:sl official s'rv'r sup'rvis'r
+n'rthwood feedback sup'rvis'r
+n'rthwood v'rification manag'r
+n'rthwood bot manag'r
+n'rthwood translation manag'r
+scp:sl game designeth manag'r
+scp:sl animat'r
+n'rthwood public relations directeth'r
+scp:sl community holp'r
+scp:sl voice act'r
+scp:sl foundation invest'r
+n'rthwood studio directeth'r
+scp:sl game directeth'r assistant
+n'rthwood tech supp'rt sup'rvis'r
+n'rthwood tech supp'rt manag'r
