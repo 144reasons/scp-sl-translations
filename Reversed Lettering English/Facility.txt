@@ -1,0 +1,44 @@
+ECIOV EMULOV
+Sey
+ECROF TRATS
+PCS-601 ER-TNEMNIATNOC\ERUDECORPn EDIRREVO
+Trevni Y-sixa
+YRAMMUS
+Lecnac
+I N V E N T O R Y
+SSENTHGIRB
+SGNITTES
+TCENNOCSID
+AHPLA DAEHRAW SI DELBASID
+SSECCA DEINED
+ECIOV TAHC
+YROTNEVNI DAOLREVO
+ESUOM YTIVITISNES
+GNIKCAH
+GNIKCIP PU...
+Gnisaercni ssenthgirb <b>yltnacifingis snesrow eht doom </b>fo eht emag.\yrTn ot tes siht eulav ot sa wol sa uoy nac.\n<b>Eht tluafed eulav si dednemmocer.</b>
+[1] NEPO/ESOLC ROOD\n[2] KCOL ROOD*\n\n*Gnikcol eht rood sesu laiceps ytiliba
+ROOD SAH NEEB KCOL-NWOD YB PCS-970
+Neercslluf edom
+Era uoy erus uoy tnaw ot evael eht revres?
+Cisab snoitpo. Lluf tsil fo sgnittes ni eht unem.
+GNITIAW ROF SREYALP
+YRAMMUS
+EUNITNOC
+NIAM EMULOV
+detcennoc
+Uoy depacse sa a Tsitneics dna denioj eht FTM stinu.
+Uoy depacse sa a Ssalc D dna denioj eht Soahc Ycnegrusni.
+UOY ERA
+Epacse emit: [escape_minutes] setunim dna [escape_seconds] sdnoces
+Tiaw [time] litnu uoy nac esu [item] niaga.
+Sserp <color=yellow><b>1F</b></color> rof pleh.
+Uoy evah neeb deffuc.\n<size=04>Wollof sredro ro ksa setammaet rof pleh.</size>
+Uoy erew derutpacer yb eht Enin-Deliat Xof.\htiWn eno ssel taerht ni eht ytilicaf, yeht erew elba ot ecrofnier.
+Uoy erew nekat renosirp sa a tsitneics yb eht Soahc Ycnegrusni.\yehTn erew elba ot niag na egatnavda morf eht noitamrofni uoy evag meht.
+DNUOR STRATS NI: <color=yellow>{0}</color>s
+DNUOR TRATS SI <color=#0505FF>DESUAP</color>
+GNIMIA SNES. NOITCUDER
+Sserp [key] ot lecnac eht worht.
+SDA Elggot
+Etum Rotatceps Tahc

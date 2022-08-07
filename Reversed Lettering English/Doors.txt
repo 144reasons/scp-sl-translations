@@ -1,0 +1,10 @@
+<color=neerg>NEPO</color>
+<color=#FF2A70>DESOLC</color>
+<color=egnaro>GNIVOM</color>
+<color=der>NWODKCOL</color>
+<color=der>RORRE</color>
+<color=der>SSECCA DEINED</color>
+<color=neerg>SSECCA DETNARG</color>
+<color=#FF2A70>DRACYEK DERIUQER</color>
+<color=egnaro>ESAELP SSAP</color>
+<color=egnaro>GNISOLC</color>

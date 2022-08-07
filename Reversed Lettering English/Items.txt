@@ -1,0 +1,43 @@
+0~Rotinaj Dracyek
+1~Tsitneics Dracyek
+2~Hcraeser Rosivrepus Dracyek
+3~Enoz Reganam Dracyek
+4~Draug Dracyek
+5~FTM Etavirp Dracyek
+6~Tnemniatnoc Reenigne Dracyek
+7~FTM Tnaegres Dracyek
+8~FTM Niatpac Dracyek
+9~Ytilicaf Reganam Dracyek
+10~Soahc Ycnegrusni Ssecca Ecived
+11~5O-level Dracyek
+12~Oidar
+13~MOC-51
+14~Tsrif Dia Tik~Slaeh ruoy seirujni.
+15~Thgilhsalf~Tel ereht eb thgil!
+16~Orcim H.I.D.~Elibom hgih-ytisnetni lacirtcele egrahcsid reworht.
+17~PCS-005~Eht aecanap.
+18~PCS-702~Yllufmrah sesaercni rotom slliks.
+19~FTM-11E-RS
+21~Cevssorc
+23~PSF-9
+24~Recigol
+25~Hgih-Evisolpxe Edanerg~Moob!
+26~Gnabhsalf Edanerg~Sdnilb ruoy seimene.
+30~MOC-81
+31~PCS-810~Llabrepus elba ot ecnuob htiw emertxe ycneiciffe.
+32~PCS-862~Nehw nrow, yliraropmet sekam uoy elbisivni sselnu ti si detpurretni yb yna resu noitcaretni.
+33~Enilanerda~Yliraropmet sesaercni ecnarudne.
+34~Srellikniap~Eveiler ronim seirujni.
+35~Nioc~Uoy'er ton erus yhw uoy'd tnaw ot yrrac siht dnuora...
+36~Thgil Romra
+37~Tabmoc Romra
+38~Yvaeh Romra
+39~.44 Revlover
+40~KA
+41~Nugtohs
+42~Gab fo Seidnac~A gab gniniatnoc eht gniwollof seidnac:
+43~PCS-6712~Ruoy yrev nwo Thgiltsohg! Noituac, yrev eligarf...
+44~PCS-442-A~Na tneicna esav, gnizeerf ot eht hcuot. Setaerc a egral duolc fo yci gof nehw decalp.
+45~PCS-442-B~Na tneicna esav, gnizeerf ot eht hcuot. Setaerc a egral duolc fo yci gof nehw decalp.
+46~PCS-3581~Sevorpmi nopaew noitalupinam slliks ta eht tsoc fo rehgih animats egasu.
+47~3-X Elcitrap Rotpursid

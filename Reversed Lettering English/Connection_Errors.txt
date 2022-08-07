@@ -1,0 +1,38 @@
+<size=08>UOY EVAH NEEB DEKCIK</size>\ehTn revres saw decrof ot pots eht noitcennoc.
+<size=08>DETCENNOCSID</size>\ehTn deificeps tsoh si ton elbaliava.
+<size=08>DETCENNOCSID</size>\ehTn deificeps noitcennoc DI seod ton tsixe.
+<size=08>DETCENNOCSID</size>\ehTn deificeps lennahc seod ton tsixe.
+<size=08>DETCENNOCSID</size>\revreSn si lluf.
+<size=08>DETCENNOCSID</size>\devieceRn gnorw tekcap.
+<size=08>DETCENNOCSID</size>\noitcennoCn tsol (demit tuo).
+<size=08>DETCENNOCSID</size>\noitcennoCn tsol (demit tuo).
+<size=08>DETCENNOCSID</size>\noitarepOn si ton detroppus.
+<size=08>DETCENNOCSID</size>\ruoYn emag noisrev si tnereffid morf eht revres.
+<size=08>DETCENNOCSID</size>\dilavnIn revres gifnoc.
+<size=08>DETCENNOCSID</size>\ehTn sserdda si dilavni ro dluoc ton eb devloser.
+<size=08>DETCENNOCSID</size>\nAn detcepxenu melborp sah derrucco!
+<size=08>ESAELP TIAW</size>\n<size=53>Gnihsilbatse noitcennoc...</size>
+<size=08>DNUOR TRATSER</size>\n<size=53>Eht dnuor si gnitratser...</size>
+<size=08>ESAELP TIAW</size>\n<size=53>Gnidaol lairotut...</size>
+<size=08>NOISREV YTILIBITAPMOCNI</size>\ruoYn emag noisrev si tnereffid morf eht revres\n(Tneilc - [your]; Revres - [servers])
+<size=08>DETCENNOC</size>\n<size=53>Gnidaol eht level...</size>
+<size=53>Gnidaol eht ytilicaf...</size>
+<size=08>DETCENNOCSID</size>\deificepsnUn rorre derrucco no eht revres.
+<size=08>DETCENNOCSID</size>\sihTn revres seriuqer noitacitnehtua yb lartnec srevres.
+<size=08>DETCENNOCSID</size>\uoYn era ton detsiletihw no siht revres.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb yllabolg dennab.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb yllabolg dennab: [reason].
+<size=08>DETCENNOCSID</size>\uoYn evah neeb dennab morf siht revres.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb dennab morf siht revres.\naBn seripxe: [date] [time]
+<size=08>DETCENNOCSID</size>\ruoYn noitacitnehtua nekot sah deripxe.\revreSn thgim evah dilavni emit ro enozemit tes.\esaelPn tcatnoc na revres rotartsinimda.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb etar detimil. Yrt niaga ni a wef sdnoces.
+<size=08>DETCENNOCSID</size>\revreSn si ton gnitpecca snoitcennoc morf ruoy cihpargoeg noitacol.\revreSn eman ro ofni yam niatnoc erom sliated.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb dekcik yb a revres noitacifidom.\n\nosaeRn: [reason]\sihTn si a revres noitacifidom, ton a emag erutaef.\tcatnoCn na revres rotartsinimda rof erom noitamrofni.
+<size=08>DETCENNOCSID</size>\ruoYn noitacitnehtua nekot sah neeb detcejer yb eht revres.\esaelPn tratser eht emag dna yrt niaga ro tcatnoc oiduts lacinhcet troppus.
+<size=08>DETCENNOCSID</size>\uoYn evah neeb dennab morf siht revres.\nosaeRn: [reason]
+<size=08>DETCENNOCSID</size>\uoYn evah neeb dennab morf siht revres.\naBn seripxe: [date] [emit]\nosaeRn: [reason]
+<size=08>Esaelp tiaw</size>\gnissecorPn revres ytiruces noitacifirev...
+<size=08>DETCENNOCSID</size>\deliaFn ot ssecorp revres ytiruces noitacifirev.
+<size=08>DETCENNOCSID</size>\gnissecorPn fo revres ytiruces noitacifirev saw oot wols rof eht revres.\esaelPn yrt niaga ro tcatnoc revres rotartsinimda.
+<size=08>HTUA RORRE</size>\lartneCn Revres Egassem: [message].
+<size=08>DETCENNOCSID</size>\revreSn si gnittuhs nwod.

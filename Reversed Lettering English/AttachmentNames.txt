@@ -1,0 +1,46 @@
+Enon~Tluafed noitpo htiw on stceffe.
+Nori Sthgis~A riap fo tnemngila srekram gnikam pu a elpmis, thgiewthgil gnithgis ecived.
+Tod Thgis~Non-gniyfingam xelfer thgis htiw a llams detanimulli tod gnitacidni eht tniop fo mia.
+Cihpargoloh Thgis~Non-gniyfingam thgis htiw a cihpargoloh elciter. Evitceffe ni esolc-sretrauq tabmoc.
+Thgin-Noisiv Epocs~Cipocselet thgis detnemgua htiw a thgin-noisiv ecived. Yvaeh, tub evitceffe ni lla gnithgil snoitidnoc.
+Omma Retnuoc Thgis~Nori sthgis htiw detargetni noitinumma gnitnuoc ecived.
+Cipocselet Thgis~Yvaeh gnithgis ecived, gnidivorp lacitpo noitacifingam. Tcefrep rof gnol-egnar, tub stimil eht llarevo noitpecrep.
+Dradnats Kcots~Raluger kcots, gnidivorp retteb lortnoc fo eht mraerif nehw gnimia nwod eht sthgis.
+Dednetxe Kcots~Sedivorp retteb lortnoc fo eht mraerif nehw gnimia nwod eht sthgis, tub sesaercni eht gnippiuqe emit.
+Detcarter Kcots~Sekam eht mraerif erom tcapmoc, hcihw sesaercni ytilibom.
+Thgiewthgil Kcots~Secuder eht thgiew fo eht mraerif tub sekam ti redrah ot lortnoc eht liocer nehw gnimia nwod eht sthgis.
+Yvaeh Kcots~Desaercni thgiew srewol ytilibom tub sekam eht mraerif erom elbats nehw gnimia nwod eht sthgis.
+Liocer-Gnicuder Kcots~Kcots deppiuqe htiw a metsys taht stpmetta ot esrepsid ecrof neewteb laudividni stohs.
+Pirgerof~Lacitrev drawrof pirg. Sekam ti reisae ot eldnah eht elzzum esir.
+Resal Thgis~Sedivorp lausiv ecnerefer tniop otno eht tegrat, hcihw spleh ni pih-gnirif tub nac ylisae laever ruoy noitisop.
+Thgilhsalf~Elbaelggot thgil ecruos. Sesaercni latot thgiew fo eht mraerif tub nac eb efil-gnivas ni krad saera.
+Omma Retnuoc~Noitinumma gnitnuoc ecived. Latnemirepxe ygolonhcet taht sah nevorp ot eb lufesu, yllaicepse htiw hgih-yticapac senizagam.
+Dradnats Lerrab~Lanoitnevnoc lerrab htiw on elzzum ecived.
+Dednetxe Lerrab~Sevorpmi eht llarevo rewoperif, tub setubirtnoc ot wol ytilibom desuac yb desaercni thgiew dna htgnel.
+Rosserppus~Dnuos rotaredom. Secuder eht ssenduol fo stohsnug, tub sesaercni eht llarevo thgiew dna htgnel fo eht mraerif.
+Hsalf Redih~Setanimile elzzum hsalf. Sekam ti reisae ot toohs ni eht ssenkrad.
+Elzzum Ekarb~Liocer rotasnepmoc. Sesu tnalleporp sesag ot ecuder liocer, tub sesaercni eht citsuoca ytisnetni fo stohsnug.
+Elzzum Retsoob~Sevorpmi erif etar, hcihw stluser ni erom egamad rep dnoces, tub eht nopaew si redrah ot lortnoc.
+JMF Enizagam~Dradnats enizagam taht sniatnoc lluf latem tekcaj stellub.
+PA Enizagam~Dradnats enizagam taht sniatnoc romra-gnicreip stellub.
+PHJ Enizagam~Dradnats enizagam taht sniatnoc wolloh-tniop stellub.
+Dednetxe JMF Enizagam~Dednetxe enizagam taht sniatnoc lluf latem tekcaj stellub.
+Dednetxe PA Enizagam~Dednetxe enizagam taht sniatnoc romra-gnicreip stellub.
+Dednetxe PHJ Enizagam~Dednetxe enizagam taht sniatnoc wolloh-tniop stellub.
+JMF Murd~Hgih-yticapac murd enizagam taht sniatnoc lluf latem tekcaj stellub.
+PA Murd~Hgih-yticapac murd enizagam taht sniatnoc romra-gnicreip stellub.
+PHJ Murd~Hgih-yticapac murd enizagam taht sniatnoc wolloh-tniop stellub.
+Wol-Pac JMF Enizagam~Wol-yticapac enizagam taht sniatnoc lluf latem tekcaj stellub.
+Wol-Pac PA Enizagam~Wol-yticapac enizagam taht sniatnoc romra-gnicreip stellub.
+Wol-Pac PHJ Enizagam~Wol-yticapac enizagam taht sniatnoc wolloh-tniop stellub.
+4-Tohs Rednilyc~Sdloh rewef segdirtrac tub si elbapac fo gnilaed desaercni egamad ot deromra seimene.
+6-Tohs Rednilyc~Eht cissalc xis-retoohs.
+8-Tohs Rednilyc~Sdloh erom segdirtrac, tub eht reivaeh reggirt llup seriuqer erom emit ot mrofrep etarucca stohs.
+Enibrac Reviecer~Raluger enibrac reppu reviecer taht si deredisnoc a taerg esimorpmoc neewteb rewoperif dna ytilibom.
+Elfir Reviecer~Lluf-ezis reppu reviecer sevorpmi rewoperif dna ycarucca, tub a reivaeh sag metsys secuder eht erif etar.
+Trohs Lerrab~Denetrohs noisrev fo eht dradnats lerrab, desu ot evorpmi ward deeps dna ytilibom.
+Ekohc~Sesaercni latot suidar fo daerps tub sevorpmi eht ycnetsisnoc fo eht nrettap.
+Dednetxe Lerrab~Ylthgils secuder eht daerps suidar tub sesaercni eht latot mraerif thgiew dna htgnel.
+On Kcots~Trohs snoitarugifnoc emoc htiw hgih ytilibom, tub gnivomer skcots morf a hgih-liocer elfir nsi't syawla eht tseb aedi.
+Elgnis-Tohs Metsys~Dradnats metsys. Eno reggirt-llup sdael ot eno egrahcsid.
+Elbuod-Tohs Metsys~Deifidom reggirt msinahcem hcihw setautca htob sraes htiw a elgnis llup.

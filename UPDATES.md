@@ -24,3 +24,10 @@ This goes from oldest to newest
 + Engrish - Engrish prevent write by that foreigner
 ! Shakespearean English - Edited game name
 ```
+
+## Update 3
+
+```diff
+@@ Translations @@
++ Reversed Lettering English - English, but all the letters are backwards
+```

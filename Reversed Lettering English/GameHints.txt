@@ -1,0 +1,6 @@
+<color=der>Ssecca deined</color>
+Dehcaer eht timil fo <color=wolley>[epyt] omma</color> (<color=wolley>[xam_epyt_tnuoc] sdnuor</color>).
+<b>Ydaerla</b> dehcaer eht timil fo <color=wolley>[epyt] omma</color> (<color=wolley>[xam_epyt_tnuoc] sdnuor</color>).
+Dehcaer eht timil fo <color=wolley>[epyt]</color> (<color=wolley>[xam_epyt_tnuoc] smeti</color>).
+<b>Ydaerla</b> dehcaer eht timil fo <color=wolley>[epyt]</color> (<color=wolley>[xam_epyt_tnuoc] smeti</color>).
+Ylno <color=wolley>[xam_meti_tnuoc] smeti</color> nac eb deirrac.
