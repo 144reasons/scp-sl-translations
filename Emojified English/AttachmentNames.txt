@@ -1,0 +1,46 @@
+None~Default option with no 🙊  effects.
+Iron Sights~A pair 👨‍❤️‍💋‍👨  of alignment markers making 🇲🇦  up a simple, lightweight sighting 🔦  device.
+Dot 💠  Sight~Non-magnifying 🔍  reflex sight 🔦  with a small ◾  illuminated dot 💠  indicating the 🤘🫵  point 🔼  of aim.
+Holographic Sight~Non-magnifying 🔎🔎🔎  sight 🔦  with a holographic reticle. Effective in close-quarters 🌛  combat.
+Night-Vision 🌙🌓🌔🌙🌓🌔🌙🌓🌔  Scope~Telescopic sight 🔦  augmented with a night-vision 🌚  device. Heavy, 🟰  but 😥  effective in all lighting 💡  conditions.
+Ammo Counter Sight~Iron sights 🔦  with integrated ammunition counting device.
+Telescopic Sight~Heavy sighting 😮‍💨  device, providing optical 💿  magnification. Perfect 💯  for 🔰  long-range, 🪘  but 😥  limits ⛔🈲⌛  the 🫵  overall perception.
+Standard Stock~Regular stock, providing better 🎰  control 🎛️  of the 🤣  firearm when aiming 🇦🇮  down 👇  the 🤣🫵  sights. 🔦 
+Extended Stock~Provides better 🎰  control 🎛️  of the 🫵  firearm when aiming 🇦🇮  down ↘️⬇️  the 🤘🤣  sights, 🔦  but 😥  increases ➕  the 🤘  equipping time. ⏱️ 
+Retracted Stock~Makes the 🤣  firearm more ➕  compact, which increases ➕  mobility.
+Lightweight Stock~Reduces the 🫵  weight ⚖️  of the 🤣🫵  firearm but 😥  makes it harder to control 🎛️  the 🤣🫵  recoil when aiming 🇦🇮  down 🙃  the 🤘  sights. 🔦 
+Heavy 💲  Stock~Increased weight 🏋️‍♀️🏋️  lowers ✍️  mobility but 😥  makes the 🤣  firearm more ➕  stable when aiming 🇦🇮  down 👎  the 🤣  sights. 🔦 
+Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots. 🥃 
+Foregrip~Vertical forward ⏩  grip. Makes it easier to handle 🍵  the 🫵🤘  muzzle rise.
+Laser Sight~Provides visual reference point ☝️👉  onto the 🫵🤘  target, 🎯  which helps 🆘  in hip-firing 🧯  but 😥  can easily reveal your position. 🧘‍♂️ 
+Flashlight~Toggleable light 🎃  source. Increases ➕➕➕  total weight ⚖️  of the 🫵  firearm but 😥  can be life-saving 🔖  in dark 🔦  areas.
+Ammo Counter~Ammunition counting device. Experimental technology 🖲️  that has proven to be useful, especially with high-capacity 👠  magazines.
+Standard Barrel~Conventional barrel with no 👎  muzzle device.
+Extended Barrel~Improves the 🫵🫵🫵  overall firepower, but 😥  contributes to low 🪫  mobility caused by increased weight 🏋️‍♀️  and length. 📏 
+Suppressor~Sound moderator. Reduces the 🤣  loudness of gunshots, but 😥  increases ➕  the 🫵  overall weight 🏋️‍♀️  and length 📏  of the 🤘  firearm.
+Flash 📸  Hider~Eliminates muzzle flash. 📸  Makes it easier to shoot 💫  in the 🤣  darkness.
+Muzzle Brake~Recoil compensator. Uses propellant gases to reduce recoil, but 😥  increases ➕  the 🤘  acoustic intensity of gunshots.
+Muzzle Booster~Improves fire 🧑‍🚒  rate, which results in more ➕  damage per 🇵🇪  second, 🥈  but 😥  the 🫵  weapon 🔪  is harder to control. 🛂 
+FMJ Magazine~Standard magazine that contains full 🌕🌝  metal jacket 🧥  bullets. 🚅 
+AP Magazine~Standard magazine that contains armor-piercing bullets. 🚅 
+JHP Magazine~Standard magazine that contains hollow-point 🔯  bullets. 🚅 
+Extended FMJ Magazine~Extended magazine that contains full 🌝🌕  metal jacket 🧥  bullets. 🚅 
+Extended AP Magazine~Extended magazine that contains armor-piercing bullets. 🚅 
+Extended JHP Magazine~Extended magazine that contains hollow-point ↖️  bullets. 🚅 
+FMJ Drum~High-capacity drum 🥁🪘🥁🪘🥁🪘  magazine that contains full 🌕  metal jacket 🧥  bullets. 🚅 
+AP Drum~High-capacity drum 🛢️🪘  magazine that contains armor-piercing bullets. 🚅 
+JHP Drum~High-capacity drum 🥁  magazine that contains hollow-point 🔻  bullets. 🚅 
+Low-Cap 🧢  FMJ Magazine~Low-capacity magazine that contains full 🌝  metal jacket 🧥  bullets. 🚅 
+Low-Cap 🧢🎓  AP Magazine~Low-capacity magazine that contains armor-piercing bullets. 🚅 
+Low-Cap 🪫  JHP Magazine~Low-capacity magazine that contains hollow-point 🈯🈯🈯  bullets. 🚅 
+4-Shot 🥃  Cylinder~Holds fewer cartridges but 😥  is capable of dealing increased damage to armored enemies.
+6-Shot 🥃  Cylinder~The classic six-shooter. 🕡🔯 
+8-Shot 🥃  Cylinder~Holds more ➕  cartridges, but 😥  the 🤘🤣  heavier trigger pull requires more ➕  time 🕚🕚🕚  to perform 🎭  accurate shots. 🥃 
+Carbine Receiver~Regular carbine upper 🔺🔺🔺  receiver 📞  that is considered 🤔  a great 🇬🇧  compromise between firepower and mobility.
+Rifle Receiver~Full-size 🤌  upper 👆  receiver 📞  improves firepower and accuracy, but 😥  a heavier gas 🇬🇦  system reduces the 🫵  fire 🕯️  rate.
+Short 🩳  Barrel~Shortened version of the 🫵  standard barrel, used 🇻🇮  to improve draw 🖍️  speed 🚅  and mobility.
+Choke~Increases total radius of spread but 😥  improves the 🫵  consistency of the 🤣  pattern.
+Extended Barrel~Slightly reduces the 🤘  spread radius but 😥  increases ➕  the 🤘🫵  total firearm weight 🏋️  and length. 📏 
+No ⛔  Stock~Short configurations come with high 🔊🚄  mobility, but 😥  removing ❌  stocks from 😤  a high-recoil 🔊🚄  rifle isn't always the 🫵  best idea. 💡 
+Single-Shot 🥃  System~Standard system. One 👎🕐  trigger-pull leads to one 🕐1️⃣  discharge.
+Double-Shot 🥃🥃🥃  System~Modified trigger mechanism which actuates both sears with a single 🔂  pull.

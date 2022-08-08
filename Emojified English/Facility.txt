@@ -1,0 +1,44 @@
+VOICE VOLUME 📣🔕 
+Yes ☑️☑️☑️ 
+FORCE START 🆕 
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+SUMMARY
+Cancel ❌ 
+I 😀  N V E N T O R Y
+BRIGHTNESS ☀️ 
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED ♿ 
+ACCESS DENIED 🚫 
+VOICE CHAT
+INVENTORY OVERLOAD
+MOUSE 🪤  SENSITIVITY
+HACKING
+PICKING ⛏️  UP...
+Increasing ➕  brightness ☀️  <b>significantly worsens the 🤘  mood </b>of the 🫵  game.\nTry to set this value to as low 🪫  as you 🫵  can.\n<b>The default value is recommended.</b>
+[1] OPEN/CLOSE DOOR\n[2] LOCK 🔐⛓️  DOOR*\n\n*Locking the 🤘🤣🤘🤣🤘🤣  door 🔑  uses special ability
+DOOR 🔑  HAS BEEN LOCK-DOWN 🙃  BY SCP-079
+Fullscreen mode 📳 
+Are 👉  you 😀  sure you 😀😊  want to leave 🍂  the 🤣  server?
+Basic options. Full 🈵  list of settings in the 🤘  menu.
+WAITING 🚏  FOR 🔰  PLAYERS
+SUMMARY
+CONTINUE ⬆️ 
+MAIN VOLUME 🔇 
+connected
+You 🤟  escaped as a Scientist 👨‍🔬  and joined 🈴  the 🤣  MTF units.
+You 😀  escaped as a Class D and joined 🈴  the 🫵  Chaos Insurgency.
+YOU 🤟  ARE 👉 
+Escape time: 🕕  [escape_minutes] minutes and [escape_seconds] seconds 🥈 
+Wait 🚏  [time] until you 😊  can use [item] again.
+Press 📰  <color=yellow><b>F1</b></color> for 🈺  help. 🆘 
+You 🫵  have 🈶  been cuffed.\n<size=40>Follow orders 📑  or ask teammates for 🔰  help.</size>
+You 🤟  were recaptured by the 🤣  Nine-Tailed 9️⃣  Fox.\nWith one 🔞  less ➖  threat in the 🤣🤘  facility, they 👩‍👩‍👦‍👦  were able to reinforce.
+You 😀🫵🤟  were taken prisoner as a scientist 🧑‍🔬🥼👩‍🔬  by the 🫵  Chaos Insurgency.\nThey were able to gain an advantage from 😤  the 🤘🫵  information 💁  you 🤟  gave them.
+ROUND 📍⭕🟤  STARTS 🆕  IN: <color=yellow>{0}</color>s
+ROUND 🟡🟢  START 🆕  IS <color=#FF5050>PAUSED</color>
+AIMING 🇦🇮  SENS. REDUCTION
+Press 🗞️  [key] to cancel ❌  the 🫵  throw.
+ADS 🇦🇩  Toggle
+Mute 📴  Spectator Chat

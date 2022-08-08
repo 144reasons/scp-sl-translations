@@ -11,7 +11,7 @@ Site-02 is undew certain contwow, but nyot without cost. the *runs away* victor 
 [summary_s_escaped] scientist(s) suwvived
 The *walks away* Awpha Wawhead's detonation terminyated [summary_warhead_kills] beings.
 The OwO Awpha Warhead was nyot detonyated during this mission.
-The mission took *runs away* [summary_wound_minyutes] minyutes and [summary_round_seconds] s-seconds.
+The mission took *runs away* [summary_round_minutes] minyutes and [summary_round_seconds] s-seconds.
 [summary_scp_terminated] terminyated SCPs
 Next wound in [summary_next_round_countdown] seconds.
 The SCPs *sees bulge* killed [summary_scpfrags] human b-beings.

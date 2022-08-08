@@ -1,0 +1,93 @@
+News 🌑 
+Servers
+Settings
+Quit
+Social Media
+Internet 🌐 
+Favourites
+Official
+History 🏛️ 
+Friends 🐕 
+Search 🔎  Servers
+Create 🔨  Server
+Re-Join 🈴🈴🈴 
+Direct 🎯  Connect
+Refresh 🚻 
+Hide Empty 🈳  Games 🃏 
+Hide Full 🌕  Games 🎮 
+No 🚯  Whitelist
+Video 📽️ 
+Audio
+Controls 🎛️ 
+Gameplay
+Others
+Window 🪟  Mode 📳 
+Exclusive Fullscreen
+Borderless Window 🪟🪟🪟 
+Maximized Window 🪟 
+Windowed 🪟 
+V-Sync 🔄 
+FPS Limit ⛔ 
+Off 📆 
+Texture Quality
+Decals
+Shadows
+Shadow Resolution
+Shadow Distance
+Motion Blur
+Color 🎨  Correction
+Anti Aliasing
+Render Lights 🚦 
+Master Volume 🔉 
+Sound 🔕  Effects
+Voice Chat
+Menu Music 🥁 
+Interface Volume 🔉🔕 
+Menu Theme
+Fast ⏪  Intro Fade
+Head 💆‍♂️  Bob
+Toggle Sprint
+Display 💻💻💻  Exact HP Value
+Rich 🤑  Presence
+Public 🚋  Lobby
+Toggle Search 🔎 
+SCP-079 - Toggle View 🌅  Mode 📳 
+SCP-079 - Post-Processing 🏤 
+Language
+Main Menu
+Connect
+Back 🥹 
+This change will require a reload.\nReload the 🤣🤣🤣  menu now?
+Yes 🆗☑️ 
+No 🙅🙅🙅 
+Are 👉  you 🫵  sure you 😊  want to quit?
+Screen 🖥️  Resolution
+Hide IP
+Welcome back, 🔙  {username}!
+Credits 💳 
+AUTHENTICATING
+Connecting to central 🇨🇫  servers...
+<color=green>Connection established</color>
+<color=red>Connection failure 📉  (Check console 🎮  for 🔰  details)</color>
+<color=red>Steam authentication failure 📉  (Check console 🎮  for 🈺  details)</color>
+<color=red>Discord authentication failure 📉  (Check console 🎮  for 🔰  details)</color>
+Disabled ♿♿♿ 
+Seconds 🥈 
+Ragdoll Cleanup Time 🕦 
+Display 💻  Steam 😶‍🌫️  Profile
+Allows players to view 🎑🌅  your Steam 🍜  profile by clicking 🖱️  an icon ◾  on the 🤣  player ▶️  list.
+Do Not ⏳⏳⏳  Track ⏭️  (DNT)
+Forbids 🚫  the 🫵  server to use your data 💽  (IP address, user 🗣️  ID, etc.) in purposes not 🈶  related to the 🤣🤘  server security. 🔏 
+Graphics API
+Creating 🔨  game 👾  servers directly from 😤  the 🤣  game 🎴  is no 🇳🇴⛔  longer 🪘  supported.\nThere are 👉  currently 3 ways ↕️  of creating ⚒️  a SCP:SL server:\n- You 😊  can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You 😊  can rent a VPS or a Dedicated Server from 😤  a hosting provider and run SCP:SL dedicated server there\n- You 😊  can rent a SCP:SL server from 😤  a game 🎲👾  hosting provider that supports 🎗️  SCP:SL (eg. ZAP Hosting)\n\nClick the 🤘  links 🔗  below to get 🉐  more ➕  info.\nYou can ask our tech support 🎗️  (link to our Discord server can be found in the 🤘  main menu) for 🈺  assistance.
+CREATE 🔨  ANYWAY
+READ 📖📘📗🛋️  MORE ➕ 
+RENT A SERVER
+CANCEL ❌ 
+Second 🥈 
+For 🈺  playing 🃏  our game! 🏏 
+Flash 📸  Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights 🚨🔆 
+Bloom
+Toggle Subtitles

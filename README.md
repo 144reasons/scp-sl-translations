@@ -31,24 +31,30 @@ Just the English file.
 
 ### UwU'ified English
 
-Just the English file, but UwU'ified
+Just the English file, but UwU'ified. Thank you to the [UwUifier](https://uwuifier.com/) webapp, made by [Schotsl](https://github.com/Schotsl)
 
 ![](https://i.imgur.com/y6YekH6.jpg)
 
 ### Shakespearean English
 
-Just the English file, but Shakespear'd
+Just the English file, but Shakespear'd. Thank you to [lingojam](https://lingojam.com/) for the translator.
 
 ![](https://i.imgur.com/18KFgbs.jpg)
 
 ### Engrish
 
-English prevent write by that foreigner
+English prevent write by that foreigner. Thank you to [lingojam](https://lingojam.com/) for the translator.
 
 ![](https://i.imgur.com/SOPv5Q9.jpg)
 
 ### Reversed Lettering English
 
-Just the English file, but the letters are all reversed
+Just the English file, but the letters are all reversed. Thank you to the [textreverse.com](https://www.textreverse.com/) webapp.
 
 ![](https://i.imgur.com/NdJGV8Z.jpg)
+
+### Emojified English
+
+Just the English file, but emojified. Thank you to the [Emojify](https://madelinemiller.dev/apps/emojify/) webapp, made by [me4502](https://madelinemiller.dev/)
+
+![](https://i.imgur.com/hCEktGR.jpg)

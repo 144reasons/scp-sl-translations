@@ -30,13 +30,13 @@ connected
 You escaped as a Scientist and joinyed the x3 MTF unyits.
 You escaped as a Cwass D and joinyed the x3 Chaos Insuwgency.
 YOU AWE
-Escape time: [escape_minyutes] minyutes and [escape_seconds] seconds
+Escape time: [escape_minutes] minyutes and [escape_seconds] seconds
 Wait [time] ^-^ untiw you c-can use [item] again.
 Pwess <color=yellow><b>F1</b></color> fow hewp.
 You have been cuffed.\n<size=40>Fowwow owdews or ask teammates fow h-hewp.</size>
 You wewe wecaptuwed *notices buldge* by the x3 Nyinye-Taiwed Fox.\nWith o-one wess ^w^ threat in the x3 faciwity, they wewe abwe t-to weinfowce.
 You wewe taken prisoner as a scientist by the x3 Chaos Insuwgency.\nThey wewe abwe t-to gain an advantage fwom the x3 information you g-gave them.
-WOUND STARTS IN: <color=yewwow>{0}</color>s
+WOUND STARTS IN: <color=yellow>{0}</color>s
 WOUND STAWT *starts twerking* IS ^w^ <color=#FF5050>PAUSED</color>
 AIMING SENS. WEDUCTION
 Pwess [key] t-to cancew the x3 thwow.

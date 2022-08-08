@@ -1,0 +1,99 @@
+JOIN 🈴 
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK ⬅️🥹 
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT 🚦  COUNT - Maximum number 5️⃣  of light 💡  sources that have 🈶  their light 🚥  rendered on individual pixels.\n-V-Sync 🔄  - Enable synchronising with the 🤘  refresh 🚻  rate of the 🤘  display 💻  device.
+JOIN 🈴  GAME 👾 
+POST\nPROCESSING
+CREDITS 💳 
+QUIT GAME 🎯 
+Fullscreen mode 📳 
+SCREEN 🖥️  SETTINGS
+COLOR 🎨  CORRECTION
+Enter ↩️↩️↩️  IP Address...
+SCREEN 🖥️  RESOLUTION
+PLAY ⏩ 
+PIXEL LIGHT 🚨  COUNT
+SHADOW TYPE ⌨️ 
+SHADOWS
+CREATE 🔨🛠️  GAME 🃏👾 
+Change post-processing 🏤  settings. These settings generally don't affect performance, 🤹🤹🤹  leaving default values is recommended.
+Light 🚥  rendering mode:\nWhen off, 📴  graphics quality is significantly reduced. Disabling this setting is only recommended for 🈺  low-end 🔚  computers. 🧑‍💻 
+V-SYNC 🔄 
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders 🎚️  at lower 📭  values may increase ➕➕➕  gameplay smoothness.
+MAIN MENU
+RENDER LIGHTS 🚨 
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
+3. SCP-914
+TUTORIALS
+WARNING 🚸 
+Browse available servers
+Don't show 📺  it again
+How would you 😀🫵  like 😘  to connect?
+SERVER BROWSER 🥸 
+OKAY 👌 
+FIND 🔎  MATCH
+2. Using 🇻🇮  weapons 🪃 
+We 🌿  use Discord as a forum. No ❎🙊  installation needed.\n(click the 🫵🤘  logo to join)
+By default, the 🫵🤘  server will set up on the 🤣  local network.\nYour friends 🐕  will need 🇳🇪  the 🤣  direct 🎯🎯🎯  IP address to connect.\nIf you 🫵  want to set up a public 🚋🚉  server, select LocalAdmin.exe and follow the 🫵  instructions.\nIf you 🤟🫵  have 🈶  any questions, ⁉️  please 🙏  ask our technical support 🫶  (link in the 🫵🤘  main menu)
+1. The 🤘  basics
+The 🫵  presented 🎁  game 🎯🏏👾🎱  is still 🧍‍♂️  in a public 🚅  beta.\nYou may experience connection 📶  problems ⚠️  and many other bugs.\nThe current state 🇫🇲  does not ⏳  reflect the 🤘  final version.
+4. (more tutorials later)
+DIRECT 🎯  CONNECT
+TECH SUPPORT 🫶  / FORUM
+SOUND 📢  VOLUME 🔈 
+Enter ↩️  the 🤣  IP address of the 🤘  specific server.
+DOWNLOADING DATA 💽 
+NO 🙅‍♀️  SERVERS AVAILABLE
+PRESS 📰  ESC TO CLOSE / CANCEL ❌ 
+KEY 🗝️  BINDING 🚮 
+MAX BLOOD 🧛💉  AMOUNT 🈷️ 
+FPS Limit ⌛⛔ 
+FPS Limit 🚫  does not 🈶  work 🏢  when vSync is enabled!
+Set Default
+We 👩‍👩‍👦‍👦  use Steam 😤  Discussions as a forum. (Click the 🤣🤘  logo below to open 🫢  the 🤣🤘  forum)
+AUDIO SETTINGS
+MASTER VOLUME 🔊 
+MENU MUSIC 🎻 
+VOICE CHAT
+SOUND 📢  EFFECTS
+GAMEPLAY OPTIONS
+FAST 🏍️🏎️  INTRO FADE
+Class intro text ⌨️  will fade out 😵  much more ➕  quickly.
+SCP-079 - TOGGLE VIEW 🌄🎑  MODE 📳 
+Press 📰  once to swap between camera 📷  modes. 📳 
+SCP-079 - POST-PROCESSING 🏤🏤🏤 
+If disabled, ♿  camera 📷🎥  effects will be heavily reduced.
+HEAD 🤯  BOB
+Enables first-person 🧔  camera 🎥  bobbing during movement.
+TOGGLE SPRINT
+Sprinting toggles on and off, 📴  instead of being 🇧🇪  held down. ⏬ 
+SEPARATE ARTIFICIAL HP BAR 📶 
+Gives artificial HP its own health 💊  bar, 📊📊📊  instead of an overlay.
+Our translations are 👉  open-source 📬  on GitHub!\nWant to help? 🆘  Click 🖱️  here 📍  to access the 🤘  repo.
+RICH 🤑  PRESENCE
+If enabled, your status will be displayed 💻  on Discord/Steam.
+DISPLAY 💻  EXACT HP VALUE
+Displays 💻  exact HP, instead of just the 🤘  percentage.
+PUBLIC 🚉  LOBBY
+If enabled, your steam 😶‍🌫️  friends 🐶  can join 🈴  you 😀  without 😶  permission.
+HIDE IP
+If enabled, any IP in client console 🎮  is not 🈶  displayed. 💻 
+TOGGLE SEARCH 🔍 
+Item pickup 🛻  will not ⏳  require a held key; press 📰  again to cancel. ❌ 
+Applies soft 🍦  shadows to corners and tight areas to give models more ➕  depth.
+Gives the 🤣  environment ♻️⛰️  more ➕  depth at a high 🆙  performance 🤹  cost.
+Gives lighting 💡💡💡  more ➕  depth by applying a glow 🌟  based on the 🫵🤘  light 🎃🚨  intensity.
+Toggle to show 🌎📺  subtitles for 🈺🈺🈺  cassie announcements. 🪧 
+Flashes the 🫵  taskbar when you 😀  spawn while the 🤘  game 🎮  is not 🈶  in focus.
+Smoothes lines 🫥  and removes ❌  visual distortions.
+Synchronizes the 🤘  in-game 🀄  frame 🎞️  rate with your monitor's 💻  refresh 🚻  rate to stop 🚫  screen 💻  tearing. 📆 
+Projected textures such as bullet 🚅  holes ⛳  or blood 🩸💉  splatter.

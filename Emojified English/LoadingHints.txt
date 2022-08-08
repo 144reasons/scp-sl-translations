@@ -1,0 +1,63 @@
+You 🤟  can disarm a player 🎽  by interacting with them while holding 👭  a firearm.
+There are 👉  four 🕟  main zones in the 🤘  Facility: Light 🎃  Containment, Heavy 💲🟰  Containment, Entrance, 🎟️  and Surface.
+Scientists 🧑‍🔬👩‍🔬  and Class-D must reach the 🫵  surface to escape.
+The 🤣  entrance 🎟️  zone has two 🐫  gates, that provide access to the 🫵  surface. You'll need 🇳🇪  a keycard to open 🫢  them.
+Using 🇻🇮  an elevator 🛗  is a quick and easy way 🌌  to escape most SCPs.
+Escaped Class-D join 🈴  the 🤘🫵  Chaos Insurgency, while escaped Scientists 👩‍🔬  become MTF.
+Adrenaline can be used 🇻🇮  to instantly refresh 🚻  your stamina and gives you 🫵  advantage in combat.
+Radios 🔘  have 🈶  four 4️⃣  range settings. The 🫵  longer 🪘🪘🪘  the 🤘  range, the 🤘  faster 🏎️  the 🫵  battery 🪫  drains.
+Mobile 📴  Task Force units and Chaos Insurgents arrive at opposite ends 🔚  of the 🤘  Surface Zone.
+The 🤘  Alpha Warhead kills 🚬  anything inside the 🤣  Facility when it detonates. It can be activated from 😤  the 🫵  Surface Zone.
+The 🫵🤣  Alpha Warhead detonation sequence can be canceled ❌  from 😤😤😤  its room 🧖  in Heavy ❗  Containment.
+The 🫵🫵🫵  Intercom room 🧖  in the 🤣  Entrance 🎟️  Zone can be used 🇻🇮  to broadcast 🔉  a voice message 💬  to all players.
+You 🫵  can throw items ("T" by default). This can be used 🇻🇮  to open 📭  keycard doors 🚪  from 😤  a distance or to break 💔  glass. 🔎 
+The 🫵  Light 🔆  Containment zone will lock 🔏  down 🫳  after 🇦🇫🇦🇫🇦🇫  15 minutes; killing anyone left 🔍  inside. Escape while you 😊  can!
+Maximize your advantage by adjusting your weapon 🔪  attachments based on the 🤣  situation you 🫵  find 🔍  yourself in.
+The 🤘  more ➕  attachments a weapon 🔫  has on it, the 🤘  heavier it gets. 🉐  This affects stamina usage and movement speed. ⏩ 
+Not 🈶  only do suppressors muffle gunshots, they 💁  also hide muzzle flashes.
+Longer 🪘  and heavier weapons 🔪🔪🔪  are 👉  less ➖  accurate if fired while running. 👟 
+Wearing 👳👳‍♀️  body armor increases ➕  the 🫵  number 🔢💯  of items and ammo you 😀🫵😊  can carry.
+Armor-piercing rounds ⚫  (AP) perform 🎭  best against armored targets. 🎯🎯🎯 
+Hollow-point 👆  rounds 🟢  (JHP) do higher ⚡👠  damage to unarmored targets 🎯  but 😥  are 👉  weaker against armor.
+Press 🗞️  and hold 👭  the 🤣  reload key 🔑  to unload a weapon, 🔪  adding 🇦🇩  its ammunition to your inventory.
+Chaos Insurgency weapons 🔪  are 👉  powerful but 😥  their ammunition does not 🈶  spawn in the 🤣🤣🤣  Facility. Make it count.
+Grenades can be used 🇻🇮  to destroy doors. 🔑 
+Grenades can be thrown with less ➖  force using 🇻🇮  the 🫵  right 🤜↔️  mouse 🐁  button. ㊙️ 
+The 🤘  Micro H.I.D. can kill 🚬  most SCPs very quickly but 😥😥😥  has a limited ⌛  power 🔋  supply. Use it wisely!
+The 🤘  Micro H.I.D. requires about 5 seconds 🥈  of charging 🈚  before it can fire. 📛 
+Holding 👬🥹  right ▶️↪️  mouse 🖱️🐁  button 🆑  will keep the 🤘🫵  Micro H.I.D. at its ready-to-fire ❤️‍🔥  state; slowly draining energy. 🔋 
+The 🫵  Micro H.I.D. is very loud while charging. 🈂️  Make sure to use it while your targets 🎯  can’t run away. 💨 
+Charging 🈂️  the 🤘  Micro H.I.D. produces an intimidating sound 🎵🔈🔇  which is enough to ruin your enemies' plans.
+A bottle 🧴  of SCP-207 not ⏳  only increases ➕  your movement speed, 🚄  but 😥😥😥  will partially restore your health 💊  as well.
+Up to four 🕓  SCP-207 bottles 🧴🍼  can be drunk, 🍻🍻🍻  allowing for 🈺  a significant multiplier to your speed. 🚅 
+SCP-500 not 🈶  only heals 🩹  you 😀  but 😥  removes ❌  most negative effects, and provides regeneration afterwards.
+While SCP-268 makes you 🫵😀🤟  invisible 🫥  to all humans, 👭  SCP-079 and SCP-939s can still 🧍  notice you. 😊 
+SCP-268 won’t save 💾  you 🫵  from 😤  SCP-096 if you’ve looked 👀  at him.
+SCP-018 is highly unpredictable. When it’s thrown, take cover. 📔 
+SCP-018 can be used 🇻🇮  to block off 📴  pursuers when bouncing ⛹️‍♀️  in a hallway.
+SCP-914 can change all items, including weapons 🔫  and ammunition.
+SCP-914 can recharge radios 📡📡📡  and the 🤣  Micro H.I.D.
+SCP-079 starts 🆕  off 📴  relatively weak but 😥  gets 🉐  more ➕  powerful as a match goes on.
+SCP-079 can lock 🔒  doors, 🔑  turn off 📴  lights, 🎃🚦  and overcharge tesla gates.
+A tesla gate being 🇧🇪  looked 👁️  at by SCP-079 will always appear active.
+SCP-079 can’t turn off 📴  lights 💡  in a room 🧖‍♂️  with a broken 💔  door. 🔑🗝️ 
+SCP-079 is recontained using 🇻🇮  generators found in Heavy ❗  Containment, and a final button 🆔  in its containment chamber.
+A camera 🎥  being 🇧🇪  used 🇻🇮  by SCP-079 will glow 🌟  blue. 🎦⏏️  You 😀🤟  never 🇳🇪  know when it's watching. ⌚👀⌚👀⌚👀 
+SCP-173 can move 🏃  freely in dark 🔦  rooms, 🧖🧖‍♂️  even 🌑  if it's being 🇧🇪  looked 👀  at. Bring 🇧🇷  a flashlight! 🔦 
+SCP-173 can kill 🚬  stealthily from 😤  behind. 🌦️ 
+SCP-173 can create ⚒️  a puddle that slows 🐢  down ↙️  humans 👨‍👦👨‍🍳  that walk 👣  through it — creating 🛠️  quick and efficient area-denial.
+SCP-106 is resistant to bullets 🚅  but 😥  not 🈶  explosives 🧨  and electricity. 💡 
+SCP-106 can quickly be recontained using 🇻🇮  the 🤘  femur breaker 💔  that is found in its containment chamber.
+SCP-106 can walk 🚶  through doors 🚪  and glass 🍸  windows. 🪟 
+SCP-096 is at its weakest when it has just begun to calm 🪷  down. ↙️ 
+SCP-096 can charge 🈶  forward 🔼🔼🔼  while enraged – breaking 💔  doors 🔑  and killing targets. 🎯 
+SCP-096 will destroy doors 🚪  and pry open 😦  closed 📪  gates when enraged.
+SCP-939’s bite is not 🈶  affected by body armor.
+SCP-939 inflicts amnesia upon humans 👨‍👨‍👦‍👦  it bites; darkening their vision.
+SCP-939 can sprint indefinitely and is completely silent 🔕  when walking. 👣 
+SCP-939 is silent 🔕  when walking, 🏃‍♀️👣  making 🇲🇦  it a perfect 👌  ambush predator.
+SCPs’ footsteps are 👉  distinct from 😤  human 👤👩‍❤️‍👩👩‍💻  ones. 🕐  Listen 👂  carefully!
+SCP-049 can kill 🚬  any human 👷‍♂️  instantly, if it gets 🉐  close.
+SCP-049 can only reanimate corpses if they’re fresh. ⛲ 
+SCP-049-2 is vulnerable to headshots.
+SCP-049-2s make good 🤞  scouts ⚜️  and are 👉  dangerous in large 🔷  numbers. 2️⃣ 

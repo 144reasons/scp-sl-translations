@@ -38,3 +38,13 @@ This goes from oldest to newest
 @@ Random @@
 ! Updated README.md formatting to add images
 ```
+
+## Update 5
+
+```diff
+@@ Random @@
+! Updated README.md to add credits
+
+@@ Translations @@
++ Emojified English - English, but emojified
+```
