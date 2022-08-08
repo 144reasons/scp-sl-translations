@@ -1,19 +1,19 @@
-Elibom Ksat Ecrof Tinu Nolispe-11 detangised [noitangised] sah deretne eht ytilicaf.<slips>Lla gniniamer lennosrep era desivda ot deecorp htiw dradnats noitaucave slocotorp litnu na FTM dauqs sehcaer ruoy noitanitsed.<slips>
-Gnitiawa er-tnemniatnoc fo: [tnuoc] PCS stcejbus.
+Elibom Ksat Ecrof Tinu Nolispe-11 detangised [designation] sah deretne eht ytilicaf.<slips>Lla gniniamer lennosrep era desivda ot deecorp htiw dradnats noitaucave slocotorp litnu na FTM dauqs sehcaer ruoy noitanitsed.<slips>
+Gnitiawa er-tnemniatnoc fo: [count] PCS stcejbus.
 Gnitiawa er-tnemniatnoc fo: 1 PCS tcejbus.
 Laitnatsbus taerht ot ytefas sniamer nihtiw eht ytilicaf -- esicrexe noituac.
 yllufsseccus detanimret. Noitanimret esuac deificepsnu.
-detanimret yb PCS-[pcs].
+detanimret yb PCS-[scp].
 yllufsseccus detanimret yb Citamotua Ytiruces Metsys.
 yllufsseccus detanimret yb Ahpla Daehraw.
 deniatnoc yllufsseccus yb Ecneics Lennosrep.
 deniatnoc yllufsseccus yb Ssalc-D Lennosrep.
 deniatnoc yllufsseccus yb Soahc Ycnegrusni.
-PCS-[pcs]
+PCS-[scp]
 deniatnoc yllufsseccus. Tnemniatnoc tinu nwonknu.
-deniatnoc yllufsseccus. Tnemniatnoc Tinu [noitangised].
+deniatnoc yllufsseccus. Tnemniatnoc Tinu [designation].
 tsol ni Noitanimatnoced Ecneuqes.
-[tnerruc] tuo fo [xam] srotareneg detavitca.
+[current] tuo fo [max] srotareneg detavitca.
 <slips>Lla srotareneg evah neeb yllufsseccus degagne.
 Egrahcrevo ni 3... 2... 1...
 Ytilicaf si kcab ni lanoitarepo edom.

@@ -48,3 +48,14 @@ This goes from oldest to newest
 @@ Translations @@
 + Emojified English - English, but emojified
 ```
+
+## Update 6
+
+```diff
+@@ Random @@
+! Updated README.md to clarify some issues with Reverse Lettering English
+
+@@ Translations @@
+! Updated Emojified English - Fixed some issues with formatting
+! Updated Reversed Lettering English - Fixed some issues with formatting
+```

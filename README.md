@@ -15,6 +15,10 @@ And thats pretty much it
 
 If you are savvy enough, make a pull request. Otherwise you can just message `ICodeInAssembly#7117` your translation in a zip. Make sure to include a description of your translation in your message
 
+# Reporting issues with translation files
+
+If you found a mistake in the translation files, take a screenshot of the mistake and make an issue. If you know how to fix the issue, make a pull request instead.
+
 # Scripts
 
 The scripts folder is a folder which contains possibly useful scripts. Don't bother using them if you cannot understand how to use them!
@@ -49,7 +53,7 @@ English prevent write by that foreigner. Thank you to [lingojam](https://lingoja
 
 ### Reversed Lettering English
 
-Just the English file, but the letters are all reversed. Thank you to the [textreverse.com](https://www.textreverse.com/) webapp.
+Just the English file, but the letters are all reversed. Also reverses sizes so some things might appear bigger or smaller than they should. Thank you to the [textreverse.com](https://www.textreverse.com/) webapp.
 
 ![](https://i.imgur.com/NdJGV8Z.jpg)
 
