@@ -62,3 +62,11 @@ Just the English file, but the letters are all reversed. Also reverses sizes so 
 Just the English file, but emojified. Thank you to the [Emojify](https://madelinemiller.dev/apps/emojify/) webapp, made by [me4502](https://madelinemiller.dev/)
 
 ![](https://i.imgur.com/hCEktGR.jpg)
+
+## Special
+
+### ‎ 
+
+‎ 
+
+![](https://i.imgur.com/Ntf3Tbf.jpg)

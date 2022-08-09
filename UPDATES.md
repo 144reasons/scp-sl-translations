@@ -59,3 +59,13 @@ This goes from oldest to newest
 ! Updated Emojified English - Fixed some issues with formatting
 ! Updated Reversed Lettering English - Fixed some issues with formatting
 ```
+
+## Update 7
+
+```diff
+@@ Translations @@
++ Invisible Characters - Literally every character is invisible except some essentials
+
+@@ Scripts @@
++ whatchars - Replaces every letter with a different one of choice (or word...)
+```
