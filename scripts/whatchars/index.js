@@ -31,7 +31,7 @@ function onFileContent(filename, content) {
     console.log(data)
 
     data.forEach((item, index) => {
-        if(/[a-z]/i.test(item)) {data[index] = 'ㅤ'}
+        if(/[a-z]/i.test(item)) {data[index] = 'ㅤ'} // ㅤ
     })
 
     data = data.join('');

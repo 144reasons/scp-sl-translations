@@ -70,3 +70,9 @@ Just the English file, but emojified. Thank you to the [Emojify](https://madelin
 Replaces everything with nothingness
 
 ![](https://i.imgur.com/Ntf3Tbf.jpg)
+
+### UwU
+
+Replaces everything with UwU. Warning: You wont be able to change the language and the exit button will be unreachable. To fix this just delete the translation file.
+
+![](https://i.imgur.com/CCsLbg0.jpg)

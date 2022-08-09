@@ -76,3 +76,10 @@ This goes from oldest to newest
 @@ Translations @@
 ! Invisible Characters - Can't open the GitHub folder without complicated shit :skul2:
 ```
+
+## Update 8
+
+```diff
+@@ Translations @@
++ UwU - English, but all the letters are replaced with UwU. Aka, the word hi now become UwUUwU
+```
