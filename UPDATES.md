@@ -69,3 +69,10 @@ This goes from oldest to newest
 @@ Scripts @@
 + whatchars - Replaces every letter with a different one of choice (or word...)
 ```
+
+## Update 7.1
+
+```diff
+@@ Translations @@
+! Invisible Characters - Can't open the GitHub folder without complicated shit :skul2:
+```

@@ -65,8 +65,8 @@ Just the English file, but emojified. Thank you to the [Emojify](https://madelin
 
 ## Special
 
-### ‎ 
+### Invisible Characters
 
-‎ 
+Replaces everything with nothingness
 
 ![](https://i.imgur.com/Ntf3Tbf.jpg)
